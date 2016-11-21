@@ -1,6 +1,6 @@
 # 비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 수험 가이드
 
-> 이 문서는 AWS 공인 솔루션스 아키텍트 [시험 안내서](https://d0.awsstatic.com/International/ko_KR/AWS_certified_solutions_architect_associate_blueprint_ko.pdf)에 적힌 내용에 기반하여 AWS의 홈페이지, 블로그, Slideshare의 관련 링크를 정리해 놓은 것 입니다. 
+> 이 문서는 AWS 공인 솔루션스 아키텍트 [시험 안내서](https://d0.awsstatic.com/International/ko_KR/AWS_certified_solutions_architect_associate_blueprint_ko.pdf)에 적힌 내용에 기반하여 AWS의 홈페이지, 블로그, Slideshare의 관련 링크를 한글 자료 중심으로 정리해 놓은 것 입니다. 
 
 ## 기본적인 시험 정보들
 - [시험 안내 페이지](https://aws.amazon.com/ko/certification/certified-solutions-architect-associa)
@@ -14,7 +14,7 @@
 
 ## 시험 범위에 해당되는 AWS공식문서들
 ### 분야 1: 고가용성, 비용 효율적, 내결함성, 확장형 시스템 디자인
-
+- [AWS 한국어 설명서 목록](https://aws.amazon.com/ko/blogs/korea/ko-documentation/) : 여기 정리된 링크들은 대부분 시험벙위에 들어갑니다.(관리자용이나 개발자용 문서는 SA시험범위에는 들어가지 않습니다)
 - [AWS 한국어 기술 백서 목록](https://aws.amazon.com/ko/blogs/korea/ko-whitepapers/) : 내용이 많지만 잘 정리되어 있어서 쉽게 읽힙니다.
 - [AWS Well-Architected 프레임워크](https://d0.awsstatic.com/International/ko_KR/whitepapers/Well-Architected_Whitepaper.pdf)
 - [지역 및 가용영역](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/using-regions-availability-zones.html)
@@ -22,14 +22,13 @@
   - [AWS 고급 아키텍처 방법론](http://www.slideshare.net/awskorea/aws-cloud-track-2-advanced)
   - [AWS 기반의 마이크로 서비스 아키텍쳐 구현 방안](http://www.slideshare.net/awskorea/micro-service-oriented-architecture-on-aws-piljoong-kim)
 - 계획 및 설계
+  - [클라우드를 위한 아키텍처 설계 - 모범 사례](https://amz.kr/pdf/Architecture_Best_Practices_draft-KR.pdf)
   - [AWS 고객 사례 모음](https://www.awsseoul.kr/images/content/aws-korea-customer-cases-2016.pdf) 
 - 모니터링
   - [Cloudwatch](https://aws.amazon.com/ko/cloudwatch/)
-- 모범 사례
   - [모니터링 모범사례](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/monitoring_best_practices.html)
+- 모범 사례
   - [EC2 모범사례](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ec2-best-practices.html)
-  - [보안 모범사례](https://d0.awsstatic.com/International/ko_KR/whitepapers/AWS_Security_Best_Practices_11052013.pdf)
-
 - 가격/비용을 비롯한 클라이언트 사양 개발(예: 온디맨드 vs. 예약 vs. 스폿, RT  - 및 RP  - DR디자인)
   - [Amazon EC2 요금](https://aws.amazon.com/ko/ec2/pricing/)
 - 아키텍처적 트레이드오프(고가용성과 비용 간 트레이드오프, Amazon Relational Database Service(RDS)를 사용하는 것과 Amazon Elastic Compute Cloud(EC2)에 자체 데이터베이스를 설치하는 것 간의 트레이드오프)
@@ -38,15 +37,31 @@
   - [AWS Enterprise Summit :: 하이브리드 클라우드 인프라를 통한 데이터센터 확장과 마이그레이션 방안](http://www.slideshare.net/awskorea/aws-enterprise-summit-67243885)
 - 탄력성 및 확장성
   - [AWS 클라우드에서의 웹 애플리케이션 호스팅](http://d0.awsstatic.com/whitepapers/International/ko/AWS_Web_Hosting_Best_Practices_05252010.pdf)
+  - [RDS의 고가용성(다중 AZ)](https://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html)
 
 ### 분야 2.0: 구현/배포 - Amazon EC2, Amazon S3, Elastic Beanstalk, CloudFormation, Amazon Virtual Private Cloud(VPC) 및 AWS Identity and Access Management(IAM)를 사용하여 클라우드 솔루션을 코딩하고 구현하기 위한 적절한 기술과 방법을 파악한다.
 - [Amazon Machine Image:AMI](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/AMIs.html)
 - [AWS Direct Connect](https://aws.amazon.com/ko/directconnect/)
 - [AWS Stroage Gateway](https://aws.amazon.com/ko/storagegateway/)
-- S3
-  - [Amazon S3 리소스에 대한 액세스 권한 관리](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/s3-access-control.html)
-  - [S3 스토리지 클래스](https://aws.amazon.com/ko/s3/storage-classes/)
-  - [S3 Reduced Redundancy Storage](https://aws.amazon.com/ko/s3/reduced-redundancy/)
+- 프라이빗 클라우드에서 서비스 관리 운영 및 확장
+    - [AWS Storage Gateway](https://aws.amazon.com/ko/storagegateway/details/) 
+- 프라이빗 및 퍼블릭 클라우드에서 규정 준수 구성
+- 다양한 지역에서 인스턴스 시작
+- 개별 서비스
+  - EC2
+    - [Auto Scaling 설명서](http://docs.aws.amazon.com/ko_kr/autoscaling/latest/userguide/WhatIsAutoScaling.html)
+  - VPC
+    - [VPC 사용자 가이드](http://docs.aws.amazon.com/ko_kr/AmazonVPC/latest/UserGuide/VPC_Introduction.html)
+    - [VPC 피어링이란?](http://docs.aws.amazon.com/ko_kr/AmazonVPC/latest/PeeringGuide/Welcome.html)
+    - [Amazon Virtual Private Cloud 를 이용한 IT 인프라의 확장](http://d0.awsstatic.com/International/ko_KR/whitepapers/Extend%20your%20IT%20infrastructure%20with%20Amaon%20VPC.pdf)
+  - Elastic Beanstalk
+    - [Elastic Beanstalk를 이용한 웹 앱 배포](http://docs.aws.amazon.com/ko_kr/gettingstarted/latest/deploy/overview.html)
+  - [EBS](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/AmazonEBS.html)
+  - S3
+    - [Amazon S3 제품 세부 정보](https://aws.amazon.com/ko/s3/details/)
+    - [Amazon S3 리소스에 대한 액세스 권한 관리](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/s3-access-control.html)
+    - [S3 스토리지 클래스](https://aws.amazon.com/ko/s3/storage-classes/)
+    - [S3 Reduced Redundancy Storage](https://aws.amazon.com/ko/s3/reduced-redundancy/)
 
 ### 분야 3: 데이터 보안 - 최적의 클라우드 배포 및 유지보수를 위한 보안 절차를 파악하고 구현
 - [클라우드 보안 모범 사례](https://d0.awsstatic.com/International/ko_KR/whitepapers/AWS_Security_Best_Practices_11052013.pdf)
@@ -90,3 +105,5 @@
   - [인스턴스 연결 중 오류 발생: 연결시간 초과](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/TroubleshootingInstancesConnecting.html#TroubleshootingInstancesConnectionTimeout)
   - [인스턴스 문제 해결](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ec2-instance-troubleshoot.html)
   - [IAM 문제 해결](http://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/troubleshoot.html)
+- [AWS Service Limits](http://docs.aws.amazon.com/ko_kr/general/latest/gr/aws_service_limits.html)
+- [Amazon EC2 인스턴스 FAQ](https://aws.amazon.com/ko/instance-help/)
