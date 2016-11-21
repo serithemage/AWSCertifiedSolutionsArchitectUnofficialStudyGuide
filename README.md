@@ -48,7 +48,6 @@
 - [AWS Direct Connect](https://aws.amazon.com/ko/directconnect/)
 - [AWS Stroage Gateway](https://aws.amazon.com/ko/storagegateway/)
 - 프라이빗 클라우드에서 서비스 관리 운영 및 확장
-    - [AWS Storage Gateway](https://aws.amazon.com/ko/storagegateway/details/) 
 - 프라이빗 및 퍼블릭 클라우드에서 규정 준수 구성
 - 다양한 지역에서 인스턴스 시작
 - 개별 서비스
