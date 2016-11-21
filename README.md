@@ -1,5 +1,7 @@
 # 비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 수험 가이드
 
+> 이 문서는 AWS 공인 솔루션스 아키텍트 [시험 안내서](https://d0.awsstatic.com/International/ko_KR/AWS_certified_solutions_architect_associate_blueprint_ko.pdf)에 적힌 내용에 기반하여 AWS의 홈페이지, 블로그, Slideshare의 관련 링크를 정리해 놓은 것 입니다. 
+
 ## 기본적인 시험 정보들
 - [시험 안내 페이지](https://aws.amazon.com/ko/certification/certified-solutions-architect-associa)
 - [시험 신청](https://www.webassessor.com/wa.do?page=publicHome&branding=AMAZON)
