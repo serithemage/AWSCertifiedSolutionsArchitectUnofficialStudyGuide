@@ -104,6 +104,7 @@
 - [AWS를 사용하는 백업 및 복구 접근 방식](https://d0.awsstatic.com/whitepapers/Storage/LocalizedBR/Backup_and_Recovery_Approaches_Using_AWS_whitepaper_KR.pdf)
 - [AWS Import/Export](https://aws.amazon.com/ko/documentation/importexport/?nc1=h_ls)
 - [AWS Storage Gateway](https://aws.amazon.com/ko/storagegateway/details/)
+- [AWS Directory Service](https://aws.amazon.com/ko/directoryservice/faqs/)
 - [Amazon Route53](https://aws.amazon.com/ko/route53/details/)
 - [Amazon CloudFront](https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
 - [Amazon S3에서 CloudFront 사용](http://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/MigrateS3ToCloudFront.html)
