@@ -13,9 +13,13 @@
 - [공식 수험 준비서(영문)](https://www.webassessor.com/wa.do?page=publicHome&branding=AMAZON): 킨들과 종이책 버전이 있으며 각 서비스에 대한 설명과 연습문제가 수록되어 있습니다.
 
 ## 시험 범위에 해당되는 AWS공식문서들
-### 분야 1: 고가용성, 비용 효율적, 내결함성, 확장형 시스템 디자인
-- [AWS 한국어 설명서 목록](https://aws.amazon.com/ko/blogs/korea/ko-documentation/) : 여기 정리된 링크들은 대부분 시험벙위에 들어갑니다.(관리자용이나 개발자용 문서는 SA시험범위에는 들어가지 않습니다)
+
+### 전체
+- [AWS 한국어 설명서 목록](https://aws.amazon.com/ko/blogs/korea/ko-documentation/) : 여기 정리된 링크들은 대부분 SA 자격시험 출제범위임.(관리자용이나 개발자용 문서는 제외)
 - [AWS 한국어 기술 백서 목록](https://aws.amazon.com/ko/blogs/korea/ko-whitepapers/) : 내용이 많지만 잘 정리되어 있어서 쉽게 읽힙니다.
+
+
+### 분야 1: 고가용성, 비용 효율적, 내결함성, 확장형 시스템 디자인
 - [AWS Well-Architected 프레임워크](https://d0.awsstatic.com/International/ko_KR/whitepapers/Well-Architected_Whitepaper.pdf)
 - [지역 및 가용영역](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/using-regions-availability-zones.html)
 - 클라우드 서비스를 설계하는 방법
@@ -62,6 +66,9 @@
     - [Amazon S3 리소스에 대한 액세스 권한 관리](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/s3-access-control.html)
     - [S3 스토리지 클래스](https://aws.amazon.com/ko/s3/storage-classes/)
     - [S3 Reduced Redundancy Storage](https://aws.amazon.com/ko/s3/reduced-redundancy/)
+  - [CloudFormation](https://aws.amazon.com/ko/cloudformation/)
+  - [OpsWorks](https://aws.amazon.com/ko/opsworks/details/)
+
 
 ### 분야 3: 데이터 보안 - 최적의 클라우드 배포 및 유지보수를 위한 보안 절차를 파악하고 구현
 - [클라우드 보안 모범 사례](https://d0.awsstatic.com/International/ko_KR/whitepapers/AWS_Security_Best_Practices_11052013.pdf)
@@ -89,16 +96,12 @@
     - [VPC의 보안그룹](http://docs.aws.amazon.com/ko_kr/AmazonVPC/latest/UserGuide/VPC_SecurityGroups.html)
     - [네트워크 ACL](http://docs.aws.amazon.com/ko_kr/AmazonVPC/latest/UserGuide/VPC_ACLs.html)
   - [보안 아키텍트를 위한 Amazon CloudWatch](https://aws.amazon.com/ko/cloudwatch/details/)
-3.2 주요 재해 복구 기술을 파악하고 구현합니다.
-콘텐츠는 다음과 같습니다.
-- [재해 복구](https://d36cz9buwru1tt.cloudfront.net/ko/WP/AWS_Disaster_Recovery_01242012.pdf)
-  - 복구 시간 목표
-  - 복구 시점 목표
-  - Amazon Elastic Block Store
+- [AWS를 사용하는 백업 및 복구 접근 방식](https://d0.awsstatic.com/whitepapers/Storage/LocalizedBR/Backup_and_Recovery_Approaches_Using_AWS_whitepaper_KR.pdf)
 - [AWS Import/Export](https://aws.amazon.com/ko/documentation/importexport/?nc1=h_ls)
 - [AWS Storage Gateway](https://aws.amazon.com/ko/storagegateway/details/)
 - [Amazon Route53](https://aws.amazon.com/ko/route53/details/)
-- 복구된 데이터 테스트
+- [Amazon CloudFront](https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
+- [Amazon S3에서 CloudFront 사용](http://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/MigrateS3ToCloudFront.html)
 
 ### 분야 4.0: 문제 해결
 - 일반적인 문제 해결 정보 및 질문
