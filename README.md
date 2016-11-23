@@ -94,6 +94,7 @@
   - 공통적인 일반 보안 제품 통합(방화벽, IDS:HIDS/NIDS, SIEM, VPN)
   - 디자인 패턴
     - [AWS Cloud Design Patterns](http://en.clouddesignpattern.org/index.php/Main_Page)
+    - [Monitoring Integration Pattern](http://en.clouddesignpattern.org/index.php/CDP:Monitoring_Integration_Pattern)
   - DDos 완화
     - [DDoS 대응을 위한 AWS 모범사례](https://d0.awsstatic.com/International/ko_KR/whitepapers/DDoS_White_Paper.pdf)
   - [암호화 솔루션](http://d0.awsstatic.com/International/ko_KR/whitepapers/Compliance/AWS_Securing_Data_at_Rest_with_Encryption.pdf)
@@ -111,6 +112,7 @@
 
 ### 분야 4.0: 문제 해결
 > 이 영역은 대부분 각 서비스의 FAQ와 관련이 있습니다.
+
 - 일반적인 문제 해결 정보 및 질문
   - [인스턴스 연결 중 오류 발생: 연결시간 초과](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/TroubleshootingInstancesConnecting.html#TroubleshootingInstancesConnectionTimeout)
   - [인스턴스 문제 해결](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ec2-instance-troubleshoot.html)
