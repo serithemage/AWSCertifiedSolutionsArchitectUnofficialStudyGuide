@@ -65,6 +65,8 @@
   - Elastic Beanstalk
     - [Elastic Beanstalk를 이용한 웹 앱 배포](http://docs.aws.amazon.com/ko_kr/gettingstarted/latest/deploy/overview.html)
   - [EBS](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/AmazonEBS.html)
+    - [Amazon EBS 볼륨 유형](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSVolumeTypes.html)
+    - [Linux 인스턴스의 Amazon EBS 볼륨 성능](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSPerformance.html)
   - S3
     - [Amazon S3 FAQ](https://aws.amazon.com/ko/s3/faqs/)
     - [Amazon S3 리소스에 대한 액세스 권한 관리](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/s3-access-control.html)
@@ -85,9 +87,11 @@
   - AWS 플랫폼 규정 준수
     - [AWS 클라우드 규정 준수](https://aws.amazon.com/ko/compliance/)
   - AWS 보안 속성(고객 워크로드부터 물리적 계층까지)
+    - [규모별 보안: AWS 기반 거버넌스](http://d0.awsstatic.com/International/ko_KR/whitepapers/Compliance/AWS_Security_at_Scale_Governance_in_AWS_Whitepaper.pdf)
+    - [규모별 보안: AWS에서 로깅하기](http://d0.awsstatic.com/International/ko_KR/whitepapers/Compliance/AWS_Security_at_Scale_Logging_in_AWS_Whitepaper.pdf)
   - 보안 서비스
-  - [AWS Identity and Access Management(IAM)](http://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/introduction.html)
-  - [Amazon Virtual Private Cloud(VPC)](http://docs.aws.amazon.com/ko_kr/AmazonVPC/latest/UserGuide/VPC_Introduction.html)
+    - [AWS Identity and Access Management(IAM)](http://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/introduction.html)
+    - [Amazon Virtual Private Cloud(VPC)](http://docs.aws.amazon.com/ko_kr/AmazonVPC/latest/UserGuide/VPC_Introduction.html)
   - CIA 및 AAA 모델, 인바운드 및 아웃바운드 필터링 그리고 이에 맞는 AWS 서비스 및 기능
   - ‘핵심’ Amazon EC2 및 S3 보안 기능 집합
     - [Amazon S3 리소스에 대한 액세스 권한 관리](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/s3-access-control.html)
