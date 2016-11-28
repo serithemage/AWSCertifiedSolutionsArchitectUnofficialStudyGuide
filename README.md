@@ -55,9 +55,6 @@
 - [Amazon Machine Image:AMI](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/AMIs.html)
 - [AWS Direct Connect](https://aws.amazon.com/ko/directconnect/)
 - [AWS Stroage Gateway](https://aws.amazon.com/ko/storagegateway/)
-- 프라이빗 클라우드에서 서비스 관리 운영 및 확장
-- 프라이빗 및 퍼블릭 클라우드에서 규정 준수 구성
-- 다양한 지역에서 인스턴스 시작
 - 개별 서비스
   - EC2
     - [Auto Scaling 설명서](http://docs.aws.amazon.com/ko_kr/autoscaling/latest/userguide/WhatIsAutoScaling.html)
@@ -120,5 +117,6 @@
   - [인스턴스 연결 중 오류 발생: 연결시간 초과](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/TroubleshootingInstancesConnecting.html#TroubleshootingInstancesConnectionTimeout)
   - [인스턴스 문제 해결](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ec2-instance-troubleshoot.html)
   - [IAM 문제 해결](http://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/troubleshoot.html)
-- [AWS Service Limits](http://docs.aws.amazon.com/ko_kr/general/latest/gr/aws_service_limits.html):AWS에는 소프트
+- [AWS Service Limits](http://docs.aws.amazon.com/ko_kr/general/latest/gr/aws_service_limits.html):AWS에는 요청으로 변경 가능한 제한(Soft Limits)과 변경이 불가능한 제한(Hard Limits)이 있습니다.
+  - [Amazon EC2 서비스 제한](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ec2-resource-limits.html) 
 - [Amazon EC2 인스턴스 FAQ](https://aws.amazon.com/ko/instance-help/)
