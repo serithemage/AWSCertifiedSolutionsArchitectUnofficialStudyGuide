@@ -2,8 +2,8 @@
 
 > 이 문서는 AWS 공인 솔루션스 아키텍트 [시험 안내서](https://d0.awsstatic.com/International/ko_KR/AWS_certified_solutions_architect_associate_blueprint_ko.pdf)에 적힌 내용에 기반하여 AWS의 홈페이지, 블로그, Slideshare의 관련 링크를 한글 자료 중심으로 정리해 놓은 것 입니다. 어소시에이트 레벨이기때문에 깊이 있는 내용을 다루지는 않습니다만 서비스의 특징과 이를 조합한 아키텍처 디자인에 대한 개념들을 파악하고 계셔야 합니다. 
 
-## 기본적인 시험 정보들
-- [시험 안내 페이지](https://aws.amazon.com/ko/certification/certified-solutions-architect-associa)
+## 기본적인 시험 정보
+- [시험 안내 페이지](https://aws.amazon.com/ko/certification/certified-solutions-architect-associate/)
 - [시험 신청](https://www.webassessor.com/wa.do?page=publicHome&branding=AMAZON)
 - [AWS기반 아키텍처 설계](https://aws.amazon.com/ko/training/course-descriptions/architect/): 3일동안 강의와 실습으로 진행되는 수업이며 이 수업에서 다루는 내용이 바로 AWS 솔루션스 아키텍트 자격증시험의 출제 범위가 됩니다.
 - [시험 워크숍 참여](https://www.aws.training/home?courseid=10&&language=en-US&view=table&source=web_en_certified-sa-assoc)
@@ -11,6 +11,9 @@
 - [샘플문항](https://d0.awsstatic.com/International/ko_KR/AWS_certified_solutions_architect_associate_examsample_ko.pdf) : 8개의 샘플문항 입니다. 실전과 동일한 유형과 난이도를 제공합니다.
 - [연습시험 응시](https://www.webassessor.com/wa.do?page=publicHome&branding=AMAZON): 20문제가 출제되고 유료(20달러) 입니다.
 - [공식 수험 준비서(영문)](https://www.webassessor.com/wa.do?page=publicHome&branding=AMAZON): 킨들과 종이책 버전이 있으며 각 서비스에 대한 설명과 연습문제가 수록되어 있습니다.
+- [AWS 기반 아키텍처 설계 교육 안내](https://aws.amazon.com/ko/training/course-descriptions/architect/)
+- [수험 준비를 위한 자습형 실습](https://qwiklabs.com/quests/10)
+
 
 ## 시험 범위에 해당되는 AWS공식문서들
 
