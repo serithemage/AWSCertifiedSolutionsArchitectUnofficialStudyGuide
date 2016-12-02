@@ -2,6 +2,8 @@
 
 > 이 문서는 AWS 공인 솔루션스 아키텍트 [시험 안내서](https://d0.awsstatic.com/International/ko_KR/AWS_certified_solutions_architect_associate_blueprint_ko.pdf)에 적힌 내용에 기반하여 AWS의 홈페이지, 블로그, Slideshare의 관련 링크를 한글 자료 중심으로 정리해 놓은 것 입니다. 어소시에이트 레벨이기때문에 깊이 있는 내용을 다루지는 않습니다만 서비스의 특징과 이를 조합한 아키텍처 디자인에 대한 개념들을 파악하고 계셔야 합니다. 
 
+> 단축URL: http://bit.ly/sacertguide
+
 ## 기본적인 시험 정보
 - [시험 안내 페이지](https://aws.amazon.com/ko/certification/certified-solutions-architect-associate/)
 - [시험 신청](https://www.webassessor.com/wa.do?page=publicHome&branding=AMAZON)
