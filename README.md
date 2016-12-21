@@ -57,7 +57,13 @@
 - [AWS Direct Connect](https://aws.amazon.com/ko/directconnect/)
 - [AWS Stroage Gateway](https://aws.amazon.com/ko/storagegateway/)
 - 개별 서비스
-  - EC2
+  - [EC2](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/concepts.html) : AWS의 핵심서비스인 만큼 EC2에 대한 내용은 무척 비중있게 다루어집니다.
+    - [인스턴스 및 AMI](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ec2-instances-and-amis.html)
+    - [리전 및 가용 영역](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/using-regions-availability-zones.html)
+    - [Amazon EC2 루트 디바이스 볼륨](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/RootDeviceStorage.html)
+    - [Amazon EC2 모니터링](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/monitoring_ec2.html)
+    - [네트워크 및 보안](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EC2_Network_and_Security.html)
+    - [스토리지](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/Storage.html)
     - [Auto Scaling 설명서](http://docs.aws.amazon.com/ko_kr/autoscaling/latest/userguide/WhatIsAutoScaling.html)
   - VPC
     - [VPC 사용자 가이드](http://docs.aws.amazon.com/ko_kr/AmazonVPC/latest/UserGuide/VPC_Introduction.html)
@@ -65,9 +71,11 @@
     - [Amazon Virtual Private Cloud 를 이용한 IT 인프라의 확장](http://d0.awsstatic.com/International/ko_KR/whitepapers/Extend%20your%20IT%20infrastructure%20with%20Amaon%20VPC.pdf)
   - Elastic Beanstalk
     - [Elastic Beanstalk를 이용한 웹 앱 배포](http://docs.aws.amazon.com/ko_kr/gettingstarted/latest/deploy/overview.html)
-  - [EBS](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/AmazonEBS.html)
+  - [EBS](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSVolumes.html)
+    - [EBS FAQ](https://aws.amazon.com/ko/ebs/faqs/)
     - [Amazon EBS 볼륨 유형](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSVolumeTypes.html)
     - [Linux 인스턴스의 Amazon EBS 볼륨 성능](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSPerformance.html)
+  - [Amazon EC2 인스턴스 스토어](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/InstanceStorage.html)
   - S3
     - [Amazon S3 FAQ](https://aws.amazon.com/ko/s3/faqs/)
     - [Amazon S3 리소스에 대한 액세스 권한 관리](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/s3-access-control.html)
