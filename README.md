@@ -73,7 +73,9 @@
     - [Elastic Beanstalk를 이용한 웹 앱 배포](http://docs.aws.amazon.com/ko_kr/gettingstarted/latest/deploy/overview.html)
   - [EBS](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSVolumes.html)
     - [EBS FAQ](https://aws.amazon.com/ko/ebs/faqs/)
-    - [Amazon EBS 볼륨 유형](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSVolumeTypes.html)
+    - [EBS 볼륨 유형](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSVolumeTypes.html)
+    - [EBS 스냅샷](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSSnapshots.html)
+    - [EBS 암호화](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSEncryption.html)
     - [Linux 인스턴스의 Amazon EBS 볼륨 성능](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSPerformance.html)
   - [Amazon EC2 인스턴스 스토어](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/InstanceStorage.html)
   - S3
