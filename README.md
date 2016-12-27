@@ -5,13 +5,12 @@
 > 단축URL: http://bit.ly/sacertguide
 
 ## 기본적인 시험 정보
-- [시험 안내서](https://d0.awsstatic.com/International/ko_KR/AWS_certified_solutions_architect_associate_blueprint_ko.pdf) 
-> 많은 분들이 제대로 읽어보시지 않으시는데 수험 준비를 위해 대단히 중요한 문서이므로 꼼꼼히 읽어 두셔야 합니다. 이 문서는 이 시험 안내서에 기반하여 작성되었습니다.
+- [시험 안내서](https://d0.awsstatic.com/International/ko_KR/AWS_certified_solutions_architect_associate_blueprint_ko.pdf): 많은 분들이 제대로 읽어보시지 않으시는데 수험 준비를 위해 대단히 중요한 문서이므로 꼼꼼히 읽어 두셔야 합니다. 이 문서는 이 시험 안내서에 기반하여 작성되었습니다.
 - [시험 안내 페이지](https://aws.amazon.com/ko/certification/certified-solutions-architect-associate/)
 - [시험 신청](https://www.webassessor.com/wa.do?page=publicHome&branding=AMAZON)
 - [AWS기반 아키텍처 설계](https://aws.amazon.com/ko/training/course-descriptions/architect/): 3일동안 강의와 실습으로 진행되는 수업이며 이 수업에서 다루는 내용이 바로 AWS 솔루션스 아키텍트 자격증시험의 출제 범위가 됩니다.
 - [시험 워크숍 참여](https://www.aws.training/home?courseid=10&&language=en-US&view=table&source=web_en_certified-sa-assoc)
-- [샘플문항](https://d0.awsstatic.com/International/ko_KR/AWS_certified_solutions_architect_associate_examsample_ko.pdf) : 8개의 샘플문항 입니다. 실전과 동일한 유형과 난이도를 제공합니다.
+- [샘플문항](https://d0.awsstatic.com/International/ko_KR/AWS_certified_solutions_architect_associate_examsample_ko.pdf): 8개의 샘플문항 입니다. 실전과 동일한 유형과 난이도를 제공합니다.
 - [연습시험 응시](https://www.webassessor.com/wa.do?page=publicHome&branding=AMAZON): 20문제가 출제되고 유료(20달러) 입니다.
 - [공식 수험 준비서(영문)](https://www.webassessor.com/wa.do?page=publicHome&branding=AMAZON): 킨들과 종이책 버전이 있으며 각 서비스에 대한 설명과 연습문제가 수록되어 있습니다.
 - [수험 준비를 위한 자습형 실습](https://qwiklabs.com/quests/10)
@@ -20,12 +19,12 @@
 ## 시험 범위에 해당되는 AWS공식문서들
 
 ### 전체
-- [AWS 한국어 설명서 목록](https://aws.amazon.com/ko/blogs/korea/ko-documentation/) : 여기 정리된 링크들은 대부분 SA 자격시험 출제범위임.(관리자용이나 개발자용 문서는 제외)
-- [AWS 한국어 기술 백서 목록](https://aws.amazon.com/ko/blogs/korea/ko-whitepapers/) : 내용이 많지만 잘 정리되어 있어서 쉽게 읽힙니다.
+- [AWS 한국어 설명서 목록](https://aws.amazon.com/ko/blogs/korea/ko-documentation/): 여기 정리된 링크들은 대부분 SA 자격시험 출제범위임.(관리자용이나 개발자용 문서는 제외)
+- [AWS 한국어 기술 백서 목록](https://aws.amazon.com/ko/blogs/korea/ko-whitepapers/): 내용이 많지만 잘 정리되어 있어서 쉽게 읽힙니다.
 - [AWS 아키텍처 센터](https://aws.amazon.com/ko/architecture/)
 
 
-### 분야 1: 고가용성, 비용 효율적, 내결함성, 확장형 시스템 디자인
+### 분야 1.0: 고가용성, 비용 효율적, 내결함성, 확장형 시스템 디자인
 - [AWS Well-Architected 프레임워크](https://d0.awsstatic.com/International/ko_KR/whitepapers/Well-Architected_Whitepaper.pdf)
 - [지역 및 가용영역](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/using-regions-availability-zones.html)
 - 클라우드 서비스를 설계하는 방법
@@ -89,7 +88,7 @@
   - [Amazon SNS](https://aws.amazon.com/ko/sns/faqs/)
   - [Amazon SQS](https://aws.amazon.com/ko/sqs/faqs/)
 
-### 분야 3: 데이터 보안 - 최적의 클라우드 배포 및 유지보수를 위한 보안 절차를 파악하고 구현
+### 분야 3.0: 데이터 보안 - 최적의 클라우드 배포 및 유지보수를 위한 보안 절차를 파악하고 구현
 - [클라우드 보안 모범 사례](https://d0.awsstatic.com/International/ko_KR/whitepapers/AWS_Security_Best_Practices_11052013.pdf)
 - [AWS 한글 보안 기술 백서](https://aws.amazon.com/ko/blogs/korea/aws-security-whitepapers/)
 - [보안 프로세스의 개요](http://d0.awsstatic.com/International/ko_KR/whitepapers/AWS_Security_Whitepaper_Overview.pdf)
@@ -133,6 +132,6 @@
   - [인스턴스 연결 중 오류 발생: 연결시간 초과](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/TroubleshootingInstancesConnecting.html#TroubleshootingInstancesConnectionTimeout)
   - [인스턴스 문제 해결](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ec2-instance-troubleshoot.html)
   - [IAM 문제 해결](http://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/troubleshoot.html)
-- [AWS Service Limits](http://docs.aws.amazon.com/ko_kr/general/latest/gr/aws_service_limits.html):AWS에는 요청으로 변경 가능한 제한(Soft Limits)과 변경이 불가능한 제한(Hard Limits)이 있습니다.
+- [AWS Service Limits](http://docs.aws.amazon.com/ko_kr/general/latest/gr/aws_service_limits.html): AWS에는 요청으로 변경 가능한 제한(Soft Limits)과 변경이 불가능한 제한(Hard Limits)이 있습니다.
   - [Amazon EC2 서비스 제한](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ec2-resource-limits.html) 
 - [Amazon EC2 인스턴스 FAQ](https://aws.amazon.com/ko/instance-help/)
