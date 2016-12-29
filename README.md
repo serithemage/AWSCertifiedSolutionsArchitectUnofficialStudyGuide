@@ -87,6 +87,7 @@
   - [OpsWorks](https://aws.amazon.com/ko/opsworks/faqs/)
   - [Amazon SNS](https://aws.amazon.com/ko/sns/faqs/)
   - [Amazon SQS](https://aws.amazon.com/ko/sqs/faqs/)
+  - [AWS Storage Gateway](https://aws.amazon.com/ko/storagegateway/faqs/)
 
 ### 분야 3.0: 데이터 보안 - 최적의 클라우드 배포 및 유지보수를 위한 보안 절차를 파악하고 구현
 - [클라우드 보안 모범 사례](https://d0.awsstatic.com/International/ko_KR/whitepapers/AWS_Security_Best_Practices_11052013.pdf)
