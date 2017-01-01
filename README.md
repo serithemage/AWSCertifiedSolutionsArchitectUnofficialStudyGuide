@@ -65,11 +65,11 @@
     - [네트워크 및 보안](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EC2_Network_and_Security.html)
     - [스토리지](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/Storage.html)
     - [Auto Scaling 설명서](http://docs.aws.amazon.com/ko_kr/autoscaling/latest/userguide/WhatIsAutoScaling.html)
-  - VPC
+  - [VPC](https://aws.amazon.com/ko/vpc/faqs/)
     - [VPC 사용자 가이드](http://docs.aws.amazon.com/ko_kr/AmazonVPC/latest/UserGuide/VPC_Introduction.html)
     - [VPC 피어링이란?](http://docs.aws.amazon.com/ko_kr/AmazonVPC/latest/PeeringGuide/Welcome.html)
     - [Amazon Virtual Private Cloud 를 이용한 IT 인프라의 확장](http://d0.awsstatic.com/International/ko_KR/whitepapers/Extend%20your%20IT%20infrastructure%20with%20Amaon%20VPC.pdf)
-  - Elastic Beanstalk
+  - [Elastic Beanstalk](https://aws.amazon.com/ko/elasticbeanstalk/faqs/)
     - [Elastic Beanstalk를 이용한 웹 앱 배포](http://docs.aws.amazon.com/ko_kr/gettingstarted/latest/deploy/overview.html)
   - [EBS](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSVolumes.html)
     - [EBS FAQ](https://aws.amazon.com/ko/ebs/faqs/)
