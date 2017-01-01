@@ -88,6 +88,11 @@
   - [Amazon SNS](https://aws.amazon.com/ko/sns/faqs/)
   - [Amazon SQS](https://aws.amazon.com/ko/sqs/faqs/)
   - [AWS Storage Gateway](https://aws.amazon.com/ko/storagegateway/faqs/)
+  - [Amazon DynamoDB](https://aws.amazon.com/ko/dynamodb/faqs/)
+    - [SQL에서 NoSQL로](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/SQLtoNoSQL.html)
+    - [프로비저닝된 처리량](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/HowItWorks.ProvisionedThroughput.html)
+    - [DynamoDB의 쿼리 및 스캔 작업](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/QueryAndScan.html)
+    - [파티션 및 데이터 배포](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/HowItWorks.Partitions.html)
 
 ### 분야 3.0: 데이터 보안 - 최적의 클라우드 배포 및 유지보수를 위한 보안 절차를 파악하고 구현
 - [클라우드 보안 모범 사례](https://d0.awsstatic.com/International/ko_KR/whitepapers/AWS_Security_Best_Practices_11052013.pdf)
