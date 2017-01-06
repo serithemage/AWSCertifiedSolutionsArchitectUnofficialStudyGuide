@@ -40,6 +40,8 @@
   - [모니터링 모범사례](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/monitoring_best_practices.html)
 - 모범 사례
   - [EC2 모범사례](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ec2-best-practices.html)
+  - [RDS 모범사례](http://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/UserGuide/CHAP_BestPractices.html)
+  - 
 - 가격/비용을 비롯한 클라이언트 사양 개발(예: 온디맨드 vs. 예약 vs. 스폿, RT  - 및 RP  - DR디자인)
   - [Amazon EC2 요금](https://aws.amazon.com/ko/ec2/pricing/)
 - 아키텍처적 트레이드오프(고가용성과 비용 간 트레이드오프, Amazon Relational Database Service(RDS)를 사용하는 것과 Amazon Elastic Compute Cloud(EC2)에 자체 데이터베이스를 설치하는 것 간의 트레이드오프)
@@ -65,6 +67,7 @@
     - [네트워크 및 보안](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EC2_Network_and_Security.html)
     - [스토리지](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/Storage.html)
     - [Auto Scaling 설명서](http://docs.aws.amazon.com/ko_kr/autoscaling/latest/userguide/WhatIsAutoScaling.html)
+    - [탄력적 네트워크 인터페이스(ENI:Elastic Network Interface)](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/using-eni.html)
   - [VPC](https://aws.amazon.com/ko/vpc/faqs/)
     - [VPC 사용자 가이드](http://docs.aws.amazon.com/ko_kr/AmazonVPC/latest/UserGuide/VPC_Introduction.html)
     - [VPC 피어링이란?](http://docs.aws.amazon.com/ko_kr/AmazonVPC/latest/PeeringGuide/Welcome.html)
