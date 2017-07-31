@@ -98,6 +98,8 @@
   - [Amazon SNS](https://aws.amazon.com/ko/sns/faqs/)
   - [Amazon SQS](https://aws.amazon.com/ko/sqs/faqs/)
   - [AWS Storage Gateway](https://aws.amazon.com/ko/storagegateway/faqs/)
+  - [Amazon Kinesis](https://aws.amazon.com/ko/kinesis/streams/faqs/)
+  - [Amazon EMR](https://aws.amazon.com/ko/emr/faqs/)
   - [Amazon DynamoDB](https://aws.amazon.com/ko/dynamodb/faqs/)
     - [SQL에서 NoSQL로](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/SQLtoNoSQL.html)
     - [프로비저닝된 처리량](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/HowItWorks.ProvisionedThroughput.html)
