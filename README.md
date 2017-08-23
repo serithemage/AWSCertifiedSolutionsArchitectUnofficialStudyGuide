@@ -5,7 +5,7 @@
 
 # 비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 수험 가이드
 
-> 이 문서는 AWS 공인 솔루션스 아키텍트 [시험 안내서](https://d0.awsstatic.com/International/ko_KR/AWS_certified_solutions_architect_associate_blueprint_ko.pdf)에 적힌 내용에 기반하여 AWS의 홈페이지, 블로그, Slideshare의 관련 링크를 한글 자료 중심으로 정리해 놓은 것 입니다. 어소시에이트 레벨이기때문에 깊이 있는 내용을 다루지는 않습니다만 서비스의 특징과 이를 조합한 아키텍처 디자인에 대한 개념들을 파악하고 계셔야 합니다. 
+> 이 문서는 AWS 공인 솔루션스 아키텍트 [시험 안내서](https://d0.awsstatic.com/International/ko_KR/AWS_certified_solutions_architect_associate_blueprint_ko.pdf)에 적힌 내용에 기반하여 AWS의 홈페이지, 블로그, Slideshare의 관련 링크를 한글 자료 중심으로 정리해 놓은 것 입니다. 
 
 > 단축URL: http://bit.ly/sacertguide
 
@@ -153,3 +153,12 @@
 - [AWS Service Limits](http://docs.aws.amazon.com/ko_kr/general/latest/gr/aws_service_limits.html): AWS에는 요청으로 변경 가능한 제한(Soft Limits)과 변경이 불가능한 제한(Hard Limits)이 있습니다.
   - [Amazon EC2 서비스 제한](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ec2-resource-limits.html) 
 - [Amazon EC2 인스턴스 FAQ](https://aws.amazon.com/ko/instance-help/)
+
+### 부록: 시험 준비 요령
+ 
+- 우선 시험 자체가 녹록지 않습니다. 링크집 보시면 아시겠지만 범위가 상당히 많습니다. 문제는 단순 암기식보다는 서비스를 이해하고 사용하는데 초점이 맞춰져 있습니다.
+- 시험범위가 [AWS 기반 아키텍처 설계수업](https://aws.amazon.com/ko/training/course-descriptions/architect/)과 일치 하기 때문에 수업을 수강하시는것이 시험 준비에 유리합니다.
+- 시험은 70분동안 55~60문제를 풉니다. 짧은 시간에 많은 문제를 풀어야 하므로 시간 관리가 매우 중요합니다.
+- 시험은 대부분 서비스의 FAQ문서에서 많이 출제가 됩니다. 충분히 문서를 읽고 모범 사례를 파악해야만 합니다.
+- 영어에 자신이 있으시다면 시험 시간 연장 신청을 하고 영문으로 시험을 보시면 30분 추가로 시험 시간을 배정 받을 수 있습니다. 
+- 무료로 제공되는 샘플문제와 20달러 유료인 테스트 시험이 있습니다. 테스트 시험은 30분동안 20문제를 풀게 되는데 실제 시험의 점수와 싱크율이 높기 때문에 모의 고사 본다는 느낌으로 시험을 보는것이 시험 준비에 많은 도움이 됩니다.
