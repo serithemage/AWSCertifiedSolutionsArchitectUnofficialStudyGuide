@@ -1,5 +1,6 @@
 > AWS 학습 링크집 시리즈
 - 비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 수험 가이드  http://bit.ly/sacertguide
+- 비공식 AWS 공인 솔루션스 아키텍트 - 프로페셔널 수험 가이드 http://bit.ly/sapcertguide
 - 비공식 AWS 공인 개발자 - 어소시에이트 수험 가이드  http://bit.ly/devcertguide
 - AWS 보안 관련 컨텐츠 모음집  http://bit.ly/seccontents
 
