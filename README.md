@@ -19,7 +19,7 @@
 - [연습시험 응시](https://www.webassessor.com/wa.do?page=publicHome&branding=AMAZON): 20문제가 출제되고 유료(20달러) 입니다. 샘플문항과 마찬가지로 실전과 동일한 유형과 난이도를 제공합니다. 연습시험 후에는 바로 성적을 확인할 수 있지만 점수만 확인 가능할 뿐 어떤 문제가 맞았는지 틀렸는지는 알 수 없습니다.
 - [공식 수험 준비서(영문)](https://www.webassessor.com/wa.do?page=publicHome&branding=AMAZON): 킨들과 종이책 버전이 있으며 각 서비스에 대한 설명과 연습문제가 수록되어 있습니다.
 - [수험 준비를 위한 자습형 실습](https://qwiklabs.com/quests/10)
-- [영문 시험 시간 추가 요청 방법](http://edu.supertrack.co.kr/notice/news.php?ptype=view&idx=5177&page=1&code=news): 영문으로 시험을 보실 경우 30분 시험시간을 추가하실 수 있습니다. **주의! 반드시 시험 신청 하시기 전에 시험시간 추가 신청을 하셔야 합니다!**
+- [영문 시험 시간 추가 요청 방법](http://edu.supertrack.co.kr/community/news.php?ptype=view&idx=5177&page=1&code=news): 영문으로 시험을 보실 경우 30분 시험시간을 추가하실 수 있습니다. **주의! 반드시 시험 신청 하시기 전에 시험시간 추가 신청을 하셔야 합니다!**
 
 ## 시험 범위에 해당되는 AWS공식문서들
 
