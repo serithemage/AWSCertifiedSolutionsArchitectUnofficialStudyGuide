@@ -1,11 +1,13 @@
 > AWS 학습 링크집 시리즈
 - 비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 수험 가이드  http://bit.ly/sacertguide
+- 비공식 AWS 공인 솔루션스 아키텍트 - 프로페셔널 수험 가이드 http://bit.ly/sapcertguide
 - 비공식 AWS 공인 개발자 - 어소시에이트 수험 가이드  http://bit.ly/devcertguide
 - AWS 보안 관련 컨텐츠 모음집  http://bit.ly/seccontents
 
 # 비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 수험 가이드
 
-> 이 문서는 AWS 공인 솔루션스 아키텍트 [시험 안내서](https://d0.awsstatic.com/International/ko_KR/AWS_certified_solutions_architect_associate_blueprint_ko.pdf)에 적힌 내용에 기반하여 AWS의 홈페이지, 블로그, Slideshare의 관련 링크를 한글 자료 중심으로 정리해 놓은 것 입니다. 
+> 이 문서는 2018년 8월 12일 까지만 볼 수 있는 AWS 공인 솔루션스 아키텍트 어소시에이트 자격증(이하 SAA)의 [시험 안내서](https://d0.awsstatic.com/International/ko_KR/AWS_certified_solutions_architect_associate_blueprint_ko.pdf)에 적힌 내용에 기반하여 AWS의 홈페이지, 블로그, Slideshare의 관련 링크를 한글 자료 중심으로 정리해 놓은 것 입니다. 
+>2018년 2월에 출시된 새로운 SAA에 대한 내용은 [2018년 2월 출시 SAA 시험안내서](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_Certified_Solutions_Architect_Associate_Feb_2018_%20Exam_Guide_v1.5.2.pdf)를 참고하시기 바랍니다. 
 
 > 단축URL: http://bit.ly/sacertguide
 
