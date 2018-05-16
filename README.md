@@ -14,12 +14,12 @@
 ## 기본적인 시험 정보
 - [시험 안내서](https://d0.awsstatic.com/International/ko_KR/AWS_certified_solutions_architect_associate_blueprint_ko.pdf): 많은 분들이 제대로 읽어보시지 않으시는데 수험 준비를 위해 대단히 중요한 문서이므로 꼼꼼히 읽어 두셔야 합니다. 이 문서는 이 시험 안내서에 기반하여 작성되었습니다.
 - [시험 안내 페이지](https://aws.amazon.com/ko/certification/certified-solutions-architect-associate/)
-- [시험 신청](https://www.webassessor.com/wa.do?page=publicHome&branding=AMAZON)
+- [시험 신청](https://www.aws.training/CertMetrics/Sso) (AWS계정이 아닌 Amazon계정 접속필요)
 - [AWS기반 아키텍처 설계](https://aws.amazon.com/ko/training/course-descriptions/architect/): 3일동안 강의와 실습으로 진행되는 수업이며 이 수업에서 다루는 내용이 바로 AWS 솔루션스 아키텍트 자격증시험의 출제 범위가 됩니다.
 - [시험 워크숍 참여](https://www.aws.training/home?courseid=10&&language=en-US&view=table&source=web_en_certified-sa-assoc)
 - [샘플문항](https://d0.awsstatic.com/International/ko_KR/AWS_certified_solutions_architect_associate_examsample_ko.pdf): 8개의 샘플문항 입니다. 실전과 동일한 유형과 난이도를 제공합니다.
 - [연습시험 응시](https://www.webassessor.com/wa.do?page=publicHome&branding=AMAZON): 20문제가 출제되고 유료(20달러) 입니다. 샘플문항과 마찬가지로 실전과 동일한 유형과 난이도를 제공합니다. 연습시험 후에는 바로 성적을 확인할 수 있지만 점수만 확인 가능할 뿐 어떤 문제가 맞았는지 틀렸는지는 알 수 없습니다.
-- [공식 수험 준비서(영문)](https://www.webassessor.com/wa.do?page=publicHome&branding=AMAZON): 킨들과 종이책 버전이 있으며 각 서비스에 대한 설명과 연습문제가 수록되어 있습니다.
+- [공식 수험 준비서(영문)](https://www.amazon.com/gp/product/1119138558): 킨들과 종이책 버전이 있으며 각 서비스에 대한 설명과 연습문제가 수록되어 있습니다.
 - [수험 준비를 위한 자습형 실습](https://qwiklabs.com/quests/10)
 - [영문 시험 시간 추가 요청 방법](http://edu.supertrack.co.kr/community/news.php?ptype=view&idx=5177&page=1&code=news): 영문으로 시험을 보실 경우 30분 시험시간을 추가하실 수 있습니다. **주의! 반드시 시험 신청 하시기 전에 시험시간 추가 신청을 하셔야 합니다!**
 
