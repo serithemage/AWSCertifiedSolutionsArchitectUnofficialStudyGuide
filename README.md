@@ -123,6 +123,7 @@
   - [장표](https://www.slideshare.net/awskorea/2-good-cases-of-aws-cloud-cost-optimization)
   - [세션영상](https://www.youtube.com/watch?v=Ks0hJ2CTFsA)
 - [AWS 총 소유 비용(TCO) 계산기](https://aws.amazon.com/ko/tco-calculator/)
+- [AWS 월 비용 계산기](https://calculator.s3.amazonaws.com/index.html)
 - [적절한 크기 조정: 워크로드에 맞춰 인스턴스를 프로비저닝](https://docs.aws.amazon.com/ko_kr/aws-technical-content/latest/cost-optimization-right-sizing/introduction.html)
 
 ### 영역5. 운영에 탁월한 아키텍처 정의
