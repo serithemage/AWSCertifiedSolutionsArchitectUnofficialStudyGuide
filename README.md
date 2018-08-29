@@ -1,50 +1,64 @@
 > AWS 학습 링크집 시리즈
-- 비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 수험 가이드  http://bit.ly/sacertguide
+- 비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 수험 가이드  http://bit.ly/saaguide
 - 비공식 AWS 공인 솔루션스 아키텍트 - 프로페셔널 수험 가이드 http://bit.ly/sapcertguide
 - 비공식 AWS 공인 개발자 - 어소시에이트 수험 가이드  http://bit.ly/devcertguide
 - AWS 보안 관련 컨텐츠 모음집  http://bit.ly/seccontents
 
-# 비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 수험 가이드 (bit.ly/sacertguide)
+# 비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 (2018년 2월 출시) 수험 가이드 (bit.ly/saaguide)
 
-> 이 문서는 2018년 8월 12일 까지만 볼 수 있는 AWS 공인 솔루션스 아키텍트 어소시에이트 자격증(이하 SAA)의 [시험 안내서](https://d0.awsstatic.com/International/ko_KR/AWS_certified_solutions_architect_associate_blueprint_ko.pdf)에 적힌 내용에 기반하여 AWS의 홈페이지, 블로그, Slideshare의 관련 링크를 한글 자료 중심으로 정리해 놓은 것 입니다. 
->2018년 2월에 출시된 새로운 SAA에 대한 내용은 [2018년 2월 출시 SAA 시험안내서](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_Certified_Solutions_Architect_Associate_Feb_2018_%20Exam_Guide_v1.5.2.pdf)를 참고하시기 바랍니다. 
+> 이 문서는 2018년 8월 12일 까지만 볼 수 있는 AWS 공인 솔루션스 아키텍트 어소시에이트 자격증(이하 SAA)의 [시험 안내서](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS%20Certified%20Solutions%20Architect%20-%20Associate_Exam%20Guide_v1.5b_FINALKO.pdf)에 적힌 내용에 기반하여 AWS의 홈페이지, 블로그, Slideshare의 관련 링크를 한글 자료 중심으로 정리해 놓은 것 입니다. 
 
-> 단축URL: http://bit.ly/sacertguide
+> 단축URL: http://bit.ly/saaguide
 
 ## 기본적인 시험 정보
-- [시험 안내서](https://d0.awsstatic.com/International/ko_KR/AWS_certified_solutions_architect_associate_blueprint_ko.pdf): 많은 분들이 제대로 읽어보시지 않으시는데 수험 준비를 위해 대단히 중요한 문서이므로 꼼꼼히 읽어 두셔야 합니다. 이 문서는 이 시험 안내서에 기반하여 작성되었습니다.
+- [시험 안내서](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS%20Certified%20Solutions%20Architect%20-%20Associate_Exam%20Guide_v1.5b_FINALKO.pdf): 많은 분들이 제대로 읽어보시지 않으시는데 수험 준비를 위해 대단히 중요한 문서이므로 꼼꼼히 읽어 두셔야 합니다. 이 문서는 이 시험 안내서에 기반하여 작성되었습니다.
 - [시험 안내 페이지](https://aws.amazon.com/ko/certification/certified-solutions-architect-associate/)
 - [시험 신청](https://www.webassessor.com/wa.do?page=publicHome&branding=AMAZON)
 - [AWS기반 아키텍처 설계](https://aws.amazon.com/ko/training/course-descriptions/architect/): 3일동안 강의와 실습으로 진행되는 수업이며 이 수업에서 다루는 내용이 바로 AWS 솔루션스 아키텍트 자격증시험의 출제 범위가 됩니다.
 - [시험 워크숍 참여](https://www.aws.training/home?courseid=10&&language=en-US&view=table&source=web_en_certified-sa-assoc)
 - [샘플문항](https://d0.awsstatic.com/International/ko_KR/AWS_certified_solutions_architect_associate_examsample_ko.pdf): 8개의 샘플문항 입니다. 실전과 동일한 유형과 난이도를 제공합니다.
 - [연습시험 응시](https://www.webassessor.com/wa.do?page=publicHome&branding=AMAZON): 20문제가 출제되고 유료(20달러) 입니다. 샘플문항과 마찬가지로 실전과 동일한 유형과 난이도를 제공합니다. 연습시험 후에는 바로 성적을 확인할 수 있지만 점수만 확인 가능할 뿐 어떤 문제가 맞았는지 틀렸는지는 알 수 없습니다.
-- [공식 수험 준비서(영문)](https://www.webassessor.com/wa.do?page=publicHome&branding=AMAZON): 킨들과 종이책 버전이 있으며 각 서비스에 대한 설명과 연습문제가 수록되어 있습니다.
-- [수험 준비를 위한 자습형 실습](https://qwiklabs.com/quests/10)
 - [영문 시험 시간 추가 요청 방법](http://edu.supertrack.co.kr/community/news.php?ptype=view&idx=5177&page=1&code=news): 영문으로 시험을 보실 경우 30분 시험시간을 추가하실 수 있습니다. **주의! 반드시 시험 신청 하시기 전에 시험시간 추가 신청을 하셔야 합니다!**
+
 
 ## 시험 범위에 해당되는 AWS공식문서들
 
 ### 전체
 - [AWS 한국어 설명서 목록](https://aws.amazon.com/ko/blogs/korea/ko-documentation/): 여기 정리된 링크들은 대부분 SA 자격시험 출제범위임.(관리자용이나 개발자용 문서는 제외)
-- [AWS 한국어 기술 백서 목록](https://aws.amazon.com/ko/blogs/korea/ko-whitepapers/): 내용이 많지만 잘 정리되어 있어서 쉽게 읽힙니다.
+- [AWS 백서](https://aws.amazon.com/ko/whitepapers/)
+  - [Amazon Web Services 개요](https://d1.awsstatic.com/International/ko_KR/whitepapers/aws-overview.pdf)
+  - [Architecting for the Cloud](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
+  - [AWS 보안 모범 사례](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
+  - [AWS 스토리지 서비스 개요](https://d1.awsstatic.com/whitepapers/Storage/AWS%20Storage%20Services%20Whitepaper-v9.pdf)
+  - [AWS Well-Architected Framework](https://d1.awsstatic.com/International/ko_KR/whitepapers/Well-Architected%20Framework%20Whitepaper.pdf)
+  - [클라우드를 위한 아키텍처 설계: AWS 모범 사례](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
+  - [AWS Lambda를 사용한 서버리스 아키텍처](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf)
 - [AWS 아키텍처 센터](https://aws.amazon.com/ko/architecture/)
 
 
-### 분야 1.0: 고가용성, 비용 효율적, 내결함성, 확장형 시스템 디자인
-- [AWS Well-Architected 프레임워크](https://d0.awsstatic.com/International/ko_KR/whitepapers/Well-Architected_Whitepaper.pdf)
-- [지역 및 가용영역](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/using-regions-availability-zones.html)
+### 영역 1: 복원력을 갖춘 아키텍처 설계
+- AWS 글로벌 인프라의 이해
+  - [AWS 글로벌 인프라](https://aws.amazon.com/ko/about-aws/global-infrastructure/)
+  - [EC2의 지역 및 가용영역 선택](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/using-regions-availability-zones.html)
+  - [Amazon CloudFront 글로벌 엣지 네트워크](https://aws.amazon.com/ko/cloudfront/details/)
 - 클라우드 서비스를 설계하는 방법
   - [AWS 고급 아키텍처 방법론](http://www.slideshare.net/awskorea/aws-cloud-track-2-advanced)
   - [AWS 기반의 마이크로 서비스 아키텍쳐 구현 방안](http://www.slideshare.net/awskorea/micro-service-oriented-architecture-on-aws-piljoong-kim)
+- 느슨한 결합을 구현하기 위한 서비스들
+  - [ELB FAQ](https://aws.amazon.com/ko/elasticloadbalancing/faqs/)
+  - [SQS FAQ](https://aws.amazon.com/ko/sqs/faqs/)
 - 계획 및 설계
   - [클라우드를 위한 아키텍처 설계 - 모범 사례](https://amz.kr/pdf/Architecture_Best_Practices_draft-KR.pdf)
   - [AWS 고객 사례 모음](https://www.awsseoul.kr/images/content/aws-korea-customer-cases-2016.pdf) 
-- 모니터링
-  - [Cloudwatch](https://aws.amazon.com/ko/cloudwatch/faqs/)
-  - [CloudTrail](https://aws.amazon.com/ko/cloudtrail/faqs/)
-  - [Trusted Advisor](https://aws.amazon.com/ko/premiumsupport/trustedadvisor/)
-  - [모니터링 모범사례](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/monitoring_best_practices.html)
+- 안정적이고 복원력을 갖춘 스토리지 선택하기
+  - [EC2 스토리지](https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/Storage.html)
+  - [EC2 인스턴스 스토어](https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/InstanceStorage.html)
+  - [EBS FAQ](https://aws.amazon.com/ko/ebs/faqs/)
+  - [EFS FAQ](https://aws.amazon.com/ko/efs/faq/)
+  - [S3 FAQ](https://aws.amazon.com/ko/s3/faqs/)
+  - [Galcier FAQ](https://aws.amazon.com/ko/glacier/faqs/)
+  - [Storage Gateway FAQ](https://aws.amazon.com/ko/storagegateway/faqs/)
+
 - 모범 사례
   - [EC2 모범사례](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ec2-best-practices.html)
   - [RDS 모범사례](http://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/UserGuide/CHAP_BestPractices.html)
@@ -53,62 +67,24 @@
 - 아키텍처적 트레이드오프(고가용성과 비용 간 트레이드오프, Amazon Relational Database Service(RDS)를 사용하는 것과 Amazon Elastic Compute Cloud(EC2)에 자체 데이터베이스를 설치하는 것 간의 트레이드오프)
   - [Amazon Relational Database Service(Amazon RDS)는 무엇인가?](http://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/UserGuide/Welcome.html)
 - 기존 개발 환경과의 통합 및 확장형 아키텍처 구축
-  - [AWS Enterprise Summit :: 하이브리드 클라우드 인프라를 통한 데이터센터 확장과 마이그레이션 방안](http://www.slideshare.net/awskorea/aws-enterprise-summit-67243885)
+  - [AWS Enterprise Summit: 하이브리드 클라우드 인프라를 통한 데이터센터 확장과 마이그레이션 방안](http://www.slideshare.net/awskorea/aws-enterprise-summit-67243885)
 - 탄력성 및 확장성
   - [AWS 클라우드에서의 웹 애플리케이션 호스팅](http://d0.awsstatic.com/whitepapers/International/ko/AWS_Web_Hosting_Best_Practices_05252010.pdf)
   - [RDS의 고가용성(다중 AZ)](https://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html)
   - [Amazon CloudWatch를 사용하여 Auto Scaling 인스턴스 및 그룹 모니터링](http://docs.aws.amazon.com/ko_kr/autoscaling/latest/userguide/as-instance-monitoring.html)
   - [Auto Scaling 그룹에 로드 밸런서 사용](http://docs.aws.amazon.com/ko_kr/autoscaling/latest/userguide/autoscaling-load-balancer.html)
 
-### 분야 2.0: 구현/배포 - Amazon EC2, Amazon S3, Elastic Beanstalk, CloudFormation, Amazon Virtual Private Cloud(VPC) 및 AWS Identity and Access Management(IAM)를 사용하여 클라우드 솔루션을 코딩하고 구현하기 위한 적절한 기술과 방법을 파악한다.
+### 영역 2: 성능이 뛰어난 아키텍처 정의
+- 캐시 사용하기
+  - [ElastCache FAQ](https://aws.amazon.com/ko/elasticache/faqs/)
+  - [Amazon CloudFront – 제품 세부 정보](https://aws.amazon.com/ko/cloudfront/details/)
 - [Amazon Machine Image:AMI](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/AMIs.html)
-- [AWS Direct Connect](https://aws.amazon.com/ko/directconnect/)
-- [AWS Stroage Gateway](https://aws.amazon.com/ko/storagegateway/)
-- 개별 서비스
-  - [EC2](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/concepts.html) : AWS의 핵심서비스인 만큼 EC2에 대한 내용은 무척 비중있게 다루어집니다.
-    - [인스턴스 및 AMI](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ec2-instances-and-amis.html)
-    - [인스턴스 유형](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/instance-types.html)
-    - [인스턴스 구입 옵션](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/instance-purchasing-options.html)
-    - [리전 및 가용 영역](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/using-regions-availability-zones.html)
-    - [Amazon EC2 루트 디바이스 볼륨](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/RootDeviceStorage.html)
-    - [Amazon EC2 모니터링](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/monitoring_ec2.html)
-    - [네트워크 및 보안](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EC2_Network_and_Security.html)
-    - [스토리지](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/Storage.html)
-    - [Auto Scaling 설명서](http://docs.aws.amazon.com/ko_kr/autoscaling/latest/userguide/WhatIsAutoScaling.html)
-    - [탄력적 네트워크 인터페이스(ENI:Elastic Network Interface)](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/using-eni.html)
-    - [인스턴스 메타데이터 및 사용자 데이터](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ec2-instance-metadata.html)
-  - [VPC](https://aws.amazon.com/ko/vpc/faqs/)
-    - [VPC 사용자 가이드](http://docs.aws.amazon.com/ko_kr/AmazonVPC/latest/UserGuide/VPC_Introduction.html)
-    - [VPC 피어링이란?](http://docs.aws.amazon.com/ko_kr/AmazonVPC/latest/PeeringGuide/Welcome.html)
-    - [Amazon Virtual Private Cloud 를 이용한 IT 인프라의 확장](http://d0.awsstatic.com/International/ko_KR/whitepapers/Extend%20your%20IT%20infrastructure%20with%20Amaon%20VPC.pdf)
-  - [Elastic Beanstalk](https://aws.amazon.com/ko/elasticbeanstalk/faqs/)
-    - [Elastic Beanstalk를 이용한 웹 앱 배포](http://docs.aws.amazon.com/ko_kr/gettingstarted/latest/deploy/overview.html)
-  - [EBS](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSVolumes.html)
-    - [EBS FAQ](https://aws.amazon.com/ko/ebs/faqs/)
-    - [EBS 볼륨 유형](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSVolumeTypes.html)
-    - [EBS 스냅샷](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSSnapshots.html)
-    - [EBS 암호화](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSEncryption.html)
-    - [Linux 인스턴스의 Amazon EBS 볼륨 성능](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSPerformance.html)
-  - [Amazon EC2 인스턴스 스토어](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/InstanceStorage.html)
-  - S3
-    - [Amazon S3 FAQ](https://aws.amazon.com/ko/s3/faqs/)
-    - [Amazon S3 리소스에 대한 액세스 권한 관리](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/s3-access-control.html)
-    - [S3 스토리지 클래스](https://aws.amazon.com/ko/s3/storage-classes/)
-    - [S3 Reduced Redundancy Storage](https://aws.amazon.com/ko/s3/reduced-redundancy/)
-  - [CloudFormation](https://aws.amazon.com/ko/cloudformation/faqs/)
-  - [OpsWorks](https://aws.amazon.com/ko/opsworks/faqs/)
-  - [Amazon SNS](https://aws.amazon.com/ko/sns/faqs/)
-  - [Amazon SQS](https://aws.amazon.com/ko/sqs/faqs/)
-  - [AWS Storage Gateway](https://aws.amazon.com/ko/storagegateway/faqs/)
-  - [Amazon Kinesis](https://aws.amazon.com/ko/kinesis/streams/faqs/)
-  - [Amazon EMR](https://aws.amazon.com/ko/emr/faqs/)
-  - [Amazon DynamoDB](https://aws.amazon.com/ko/dynamodb/faqs/)
-    - [SQL에서 NoSQL로](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/SQLtoNoSQL.html)
-    - [프로비저닝된 처리량](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/HowItWorks.ProvisionedThroughput.html)
-    - [DynamoDB의 쿼리 및 스캔 작업](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/QueryAndScan.html)
-    - [파티션 및 데이터 배포](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/HowItWorks.Partitions.html)
+- 탄력성과 확장성
+  - [자동화된 탄력성](https://docs.aws.amazon.com/ko_kr/aws-technical-content/latest/cost-optimization-automating-elasticity/introduction.html)
+  - [적절한 크기 조정: 워크로드에 맞춰 인스턴스를 프로비저닝](https://docs.aws.amazon.com/ko_kr/aws-technical-content/latest/cost-optimization-right-sizing/introduction.html)
+  - [천만 사용자를 위한 AWS 클라우드 아키텍처 진화하기 - 이창수 솔루션즈 아키텍트](https://www.youtube.com/watch?v=HI0fPiZpniY)
 
-### 분야 3.0: 데이터 보안 - 최적의 클라우드 배포 및 유지보수를 위한 보안 절차를 파악하고 구현
+### 영역 3: 안전한 애플리케이션 및 아키텍처
 - [클라우드 보안 모범 사례](https://d0.awsstatic.com/International/ko_KR/whitepapers/AWS_Security_Best_Practices_11052013.pdf)
 - [AWS 한글 보안 기술 백서](https://aws.amazon.com/ko/blogs/korea/aws-security-whitepapers/)
 - [보안 프로세스의 개요](http://d0.awsstatic.com/International/ko_KR/whitepapers/AWS_Security_Whitepaper_Overview.pdf)
@@ -138,16 +114,30 @@
     - [네트워크 ACL](http://docs.aws.amazon.com/ko_kr/AmazonVPC/latest/UserGuide/VPC_ACLs.html)
   - [보안 아키텍트를 위한 Amazon CloudWatch](https://aws.amazon.com/ko/cloudwatch/details/)
 - [AWS를 사용하는 백업 및 복구 접근 방식](https://d0.awsstatic.com/whitepapers/Storage/LocalizedBR/Backup_and_Recovery_Approaches_Using_AWS_whitepaper_KR.pdf)
-- [AWS Import/Export](https://aws.amazon.com/ko/documentation/importexport/?nc1=h_ls)
-- [AWS Storage Gateway](https://aws.amazon.com/ko/storagegateway/details/)
-- [AWS Directory Service](https://aws.amazon.com/ko/directoryservice/faqs/)
-- [Amazon Route53](https://aws.amazon.com/ko/route53/details/)
-- [Amazon CloudFront](https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
+
 - [Amazon S3에서 CloudFront 사용](http://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/MigrateS3ToCloudFront.html)
 
-### 분야 4.0: 문제 해결
-> 이 영역은 대부분 각 서비스의 FAQ와 관련이 있습니다.
+### 영역4. 비용에 최적화된 아키텍처 설계
+- [비용 최적화](https://aws.amazon.com/ko/pricing/cost-optimization/)
+- AWS 클라우드 비용 최적화를 위한 모범 사례-AWS Summit Seoul 2017
+  - [장표](https://www.slideshare.net/awskorea/2-good-cases-of-aws-cloud-cost-optimization)
+  - [세션영상](https://www.youtube.com/watch?v=Ks0hJ2CTFsA)
+- [AWS 총 소유 비용(TCO) 계산기](https://aws.amazon.com/ko/tco-calculator/)
+- [적절한 크기 조정: 워크로드에 맞춰 인스턴스를 프로비저닝](https://docs.aws.amazon.com/ko_kr/aws-technical-content/latest/cost-optimization-right-sizing/introduction.html)
 
+### 영역5. 운영에 탁월한 아키텍처 정의
+- 운영 관련 서비스들
+  - [AWS Config](https://aws.amazon.com/ko/config/faq/)
+  - [AWS CloudFormation](https://aws.amazon.com/ko/cloudformation/faqs/)
+  - [AWS Trusted Advisor](https://aws.amazon.com/ko/premiumsupport/ta-faqs/)
+  - [Amazon Inspector](https://aws.amazon.com/ko/inspector/faqs/)
+  - [VPC Flow Logs](https://docs.aws.amazon.com/ko_kr/vpc/latest/userguide/flow-logs.html)
+  - [Amazon Cloudwatch](https://aws.amazon.com/ko/cloudwatch/faqs/)
+    - [Amazon CloudWatch Logs](https://docs.aws.amazon.com/ko_kr/AmazonCloudWatch/latest/logs/WhatIsCloudWatchLogs.html)
+  - [AWS CloudTrail](https://aws.amazon.com/ko/cloudtrail/faqs/)
+  - [AWS Trusted Advisor](https://aws.amazon.com/ko/premiumsupport/trustedadvisor/)
+- [모니터링 모범사례](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/monitoring_best_practices.html)
+- [AWS 운영을 위한 체크리스트](https://d1.awsstatic.com/whitepapers/aws-operational-checklists.pdf)
 - 일반적인 문제 해결 정보 및 질문
   - [인스턴스 연결 중 오류 발생: 연결시간 초과](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/TroubleshootingInstancesConnecting.html#TroubleshootingInstancesConnectionTimeout)
   - [인스턴스 문제 해결](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ec2-instance-troubleshoot.html)
@@ -156,11 +146,85 @@
   - [Amazon EC2 서비스 제한](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ec2-resource-limits.html) 
 - [Amazon EC2 인스턴스 FAQ](https://aws.amazon.com/ko/instance-help/)
 
-### 부록: 시험 준비 요령
+## 부록
+### 부록1. AWS 공인 솔루션스 아키텍트 – 어소시에이트 : 시험준비 워크샵에서 소개된 링크들
+- EBS FAQ: https://aws.amazon.com/ebs/faqs/
+- 백서 – AWS 스토리지 서비스 개요: https://d0.awsstatic.com/whitepapers/Storage/AWS%20Storage%20Services%20Whitepaper-v9.pdf
+- 실습 – Amazon Elastic Block Store 소개: https://amazon.qwiklabs.com/focuses/3458?locale=en
+- Amazon EC2 인스턴스 스토어: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html 
+
+- ELB FAQ: https://aws.amazon.com/ko/elasticloadbalancing/faqs/
+- CloudWatch FAQ: https://aws.amazon.com/ko/cloudwatch/faqs/
+- Auto Scaling FAQ: https://aws.amazon.com/ko/ec2/autoscaling/faqs/
+
+- SQS FAQ: https://aws.amazon.com/sqs/faqs/
+- ELB FAQ: https://aws.amazon.com/elasticloadbalancing/faqs/
+- ELB 설명서: https://aws.amazon.com/documentation/elastic-load-balancing/ 
+- EIP FAQ: https://aws.amazon.com/ec2/faqs/
+- Route 53 설명서: https://aws.amazon.com/documentation/route53/
+
+- AWS Well Architected 프레임워크: https://aws.amazon.com/architecture/well-architected/
+
+### 부록2. 시험에 자주 나오는 서비스들
+- [EC2](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/concepts.html) : AWS의 핵심서비스인 만큼 EC2에 대한 내용은 무척 비중있게 다루어집니다.
+  - [인스턴스 및 AMI](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ec2-instances-and-amis.html)
+  - [인스턴스 유형](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/instance-types.html)
+  - [인스턴스 구입 옵션](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/instance-purchasing-options.html)
+  - [리전 및 가용 영역](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/using-regions-availability-zones.html)
+  - [Amazon EC2 루트 디바이스 볼륨](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/RootDeviceStorage.html)
+  - [Amazon EC2 모니터링](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/monitoring_ec2.html)
+  - [네트워크 및 보안](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EC2_Network_and_Security.html)
+  - [스토리지](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/Storage.html)
+  - [Amazon EC2 인스턴스 스토어](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/InstanceStorage.html)
+  - [Auto Scaling 설명서](http://docs.aws.amazon.com/ko_kr/autoscaling/latest/userguide/WhatIsAutoScaling.html)
+  - [탄력적 네트워크 인터페이스(ENI:Elastic Network Interface)](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/using-eni.html)
+  - [EIP](https://aws.amazon.com/ec2/faqs/)
+  - [인스턴스 메타데이터 및 사용자 데이터](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ec2-instance-metadata.html)
+- [VPC](https://aws.amazon.com/ko/vpc/faqs/)
+  - [VPC 사용자 가이드](http://docs.aws.amazon.com/ko_kr/AmazonVPC/latest/UserGuide/VPC_Introduction.html)
+  - [VPC 피어링이란?](http://docs.aws.amazon.com/ko_kr/AmazonVPC/latest/PeeringGuide/Welcome.html)
+  - [Amazon Virtual Private Cloud 를 이용한 IT 인프라의 확장](http://d0.awsstatic.com/International/ko_KR/whitepapers/Extend%20your%20IT%20infrastructure%20with%20Amaon%20VPC.pdf)
+- [Elastic Beanstalk](https://aws.amazon.com/ko/elasticbeanstalk/faqs/)
+  - [Elastic Beanstalk를 이용한 웹 앱 배포](http://docs.aws.amazon.com/ko_kr/gettingstarted/latest/deploy/overview.html)
+- [EBS](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSVolumes.html)
+  - [EBS FAQ](https://aws.amazon.com/ko/ebs/faqs/)
+  - [EBS 볼륨 유형](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSVolumeTypes.html)
+  - [EBS 스냅샷](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSSnapshots.html)
+  - [EBS 암호화](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSEncryption.html)
+  - [Linux 인스턴스의 Amazon EBS 볼륨 성능](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSPerformance.html)
+- [EFS](https://aws.amazon.com/ko/efs/faq/)
+- S3
+  - [Amazon S3 FAQ](https://aws.amazon.com/ko/s3/faqs/)
+  - [Amazon S3 리소스에 대한 액세스 권한 관리](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/s3-access-control.html)
+  - [S3 스토리지 클래스](https://aws.amazon.com/ko/s3/storage-classes/)
+  - [S3 Reduced Redundancy Storage](https://aws.amazon.com/ko/s3/reduced-redundancy/)
+- [CloudFormation](https://aws.amazon.com/ko/cloudformation/faqs/)
+- [OpsWorks](https://aws.amazon.com/ko/opsworks/faqs/)
+- [Amazon SNS](https://aws.amazon.com/ko/sns/faqs/)
+- [Amazon SQS](https://aws.amazon.com/ko/sqs/faqs/)
+- [AWS Storage Gateway](https://aws.amazon.com/ko/storagegateway/faqs/)
+- [Amazon Kinesis](https://aws.amazon.com/ko/kinesis/streams/faqs/)
+- [Amazon EMR](https://aws.amazon.com/ko/emr/faqs/)
+- [AWS Direct Connect](https://aws.amazon.com/ko/directconnect/)
+- [AWS Import/Export](https://aws.amazon.com/ko/documentation/importexport/?nc1=h_ls)
+- [AWS Storage Gateway](https://aws.amazon.com/ko/storagegateway/details/)
+- [AWS Directory Service](https://aws.amazon.com/ko/directoryservice/faqs/)
+- [Amazon Route53](https://aws.amazon.com/ko/route53/details/)
+- [Amazon CloudFront](https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
+- [AWS ECS](https://aws.amazon.com/ko/ecs/faqs/)
+  - [AWS ECR](https://aws.amazon.com/ko/ecr/faqs/)
+- [Amazon DynamoDB](https://aws.amazon.com/ko/dynamodb/faqs/)
+  - [SQL에서 NoSQL로](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/SQLtoNoSQL.html)
+  - [프로비저닝된 처리량](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/HowItWorks.ProvisionedThroughput.html)
+  - [DynamoDB의 쿼리 및 스캔 작업](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/QueryAndScan.html)
+  - [파티션 및 데이터 배포](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/HowItWorks.Partitions.html)
+- [Amazon MQ](https://aws.amazon.com/ko/amazon-mq/faqs/)
+
+### 부록3: 시험 준비 요령
  
 - 우선 시험 자체가 녹록지 않습니다. 링크집 보시면 아시겠지만 범위가 상당히 많습니다. 문제는 단순 암기식보다는 서비스를 이해하고 사용하는데 초점이 맞춰져 있습니다.
 - 시험범위가 [AWS 기반 아키텍처 설계수업](https://aws.amazon.com/ko/training/course-descriptions/architect/)과 일치 하기 때문에 수업을 수강하시는것이 시험 준비에 유리합니다.
-- 시험은 80분동안 55문제를 풉니다. 짧은 시간에 많은 문제를 풀어야 하므로 시간 관리가 매우 중요합니다.
+- 시험은 130분동안 70문제를 풉니다. 짧은 시간에 많은 문제를 풀어야 하므로 시간 관리가 매우 중요합니다.
 - 시험은 대부분 서비스의 FAQ문서에서 많이 출제가 됩니다. 충분히 문서를 읽고 모범 사례를 파악해야만 합니다.
 - 영어에 자신이 있으시다면 시험 시간 연장 신청을 하고 영문으로 시험을 보시면 30분 추가로 시험 시간을 배정 받을 수 있습니다. 
-- 무료로 제공되는 샘플문제와 20달러 유료인 테스트 시험이 있습니다. 테스트 시험은 30분동안 20문제를 풀게 되는데 실제 시험의 점수와 싱크율이 높기 때문에 모의 고사 본다는 느낌으로 시험을 보는것이 시험 준비에 많은 도움이 됩니다.
+- 무료로 제공되는 샘플문제와 20달러 유료인 테스트 시험을 보실 수 있습니다. 실제 시험의 점수와 싱크율이 높기 때문에 모의 고사 본다는 느낌으로 시험을 보는것이 시험 준비에 많은 도움이 됩니다.
