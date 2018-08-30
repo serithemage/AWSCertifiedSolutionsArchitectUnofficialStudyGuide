@@ -171,6 +171,19 @@
 - [IAM 모범 사례](http://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
 - [AWS 액세스 키를 관리하기 위한 모범 사례](http://docs.aws.amazon.com/general/latest/gr/aws-access-keys-best-practices.html)
 
+- [AWS 리인벤트 2015: VPC 기본 사항 및 연결 옵션](https://www.youtube.com/watch?v=5_bQ6Dgk6k8)
+- [AWS 클라우드의 Linux 배스천 호스트](https://s3.amazonaws.com/quickstart-reference/linux/bastion/latest/doc/linux-bastion-hosts-on-the-aws-cloud.pdf)
+- [Amazon VPC는 무엇입니까?](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Introduction.html)
+
+- [AWS에서 데이터 보호 동영상](https://www.youtube.com/watch?v=Tb_W1w_TwLk)
+
+- [저장 데이터 보호 백서](https://d0.awsstatic.com/whitepapers/AWS_Securing_Data_at_Rest_with_Encryption.pdf)
+
+- [Amazon S3 개발자 안내서의 “암호화를 사용한 데이터 보호”](http://docs.aws.amazon.com/AmazonS3/latest/dev/UsingEncryption.html)
+
+- [Amazon Web Services: 보안 프로세스 개요 백서](https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Whitepaper.pdf)
+
+- [IAM Policies and Bucket Policies and ACLs! Oh, My! (Controlling Access to S3 Resources) - Amazon 보안 블로그](http://blogs.aws.amazon.com/security/post/TxPOJBY6FE360K/IAM-policies-and-Bucket-Policies-and-ACLs-Oh-My-Controlling-Access-to-S3-Resourc)
 
 ### 부록2. 시험에 자주 나오는 서비스들
 - [EC2](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/concepts.html) : AWS의 핵심서비스인 만큼 EC2에 대한 내용은 무척 비중있게 다루어집니다.
@@ -220,6 +233,7 @@
 - [Amazon CloudFront](https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
 - [AWS ECS](https://aws.amazon.com/ko/ecs/faqs/)
   - [AWS ECR](https://aws.amazon.com/ko/ecr/faqs/)
+- [AWS KMS](https://aws.amazon.com/ko/kms/faqs/)
 - [Amazon DynamoDB](https://aws.amazon.com/ko/dynamodb/faqs/)
   - [SQL에서 NoSQL로](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/SQLtoNoSQL.html)
   - [프로비저닝된 처리량](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/HowItWorks.ProvisionedThroughput.html)
