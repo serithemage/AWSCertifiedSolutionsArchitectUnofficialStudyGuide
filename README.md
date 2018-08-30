@@ -149,22 +149,28 @@
 
 ## 부록
 ### 부록1. AWS 공인 솔루션스 아키텍트 – 어소시에이트 : 시험준비 워크샵에서 소개된 링크들
-- EBS FAQ: https://aws.amazon.com/ebs/faqs/
-- 백서 – AWS 스토리지 서비스 개요: https://d0.awsstatic.com/whitepapers/Storage/AWS%20Storage%20Services%20Whitepaper-v9.pdf
-- 실습 – Amazon Elastic Block Store 소개: https://amazon.qwiklabs.com/focuses/3458?locale=en
-- Amazon EC2 인스턴스 스토어: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html 
+- [EBS FAQ](https://aws.amazon.com/ebs/faqs/)
+- [백서 – AWS 스토리지 서비스 개요](https://d0.awsstatic.com/whitepapers/Storage/AWS%20Storage%20Services%20Whitepaper-v9.pdf)
+- [실습 – Amazon Elastic Block Store 소개](https://amazon.qwiklabs.com/focuses/3458?locale=en)
+- [Amazon EC2 인스턴스 스토어](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html)
 
-- ELB FAQ: https://aws.amazon.com/ko/elasticloadbalancing/faqs/
-- CloudWatch FAQ: https://aws.amazon.com/ko/cloudwatch/faqs/
-- Auto Scaling FAQ: https://aws.amazon.com/ko/ec2/autoscaling/faqs/
+- [ELB FAQ](https://aws.amazon.com/ko/elasticloadbalancing/faqs/)
+- [CloudWatch FAQ](https://aws.amazon.com/ko/cloudwatch/faqs/)
+- [Auto Scaling FAQ](https://aws.amazon.com/ko/ec2/autoscaling/faqs/)
 
-- SQS FAQ: https://aws.amazon.com/sqs/faqs/
-- ELB FAQ: https://aws.amazon.com/elasticloadbalancing/faqs/
-- ELB 설명서: https://aws.amazon.com/documentation/elastic-load-balancing/ 
-- EIP FAQ: https://aws.amazon.com/ec2/faqs/
-- Route 53 설명서: https://aws.amazon.com/documentation/route53/
+- [SQS FAQ](https://aws.amazon.com/sqs/faqs/)
+- [ELB FAQ](https://aws.amazon.com/elasticloadbalancing/faqs/)
+- [ELB 설명서](https://aws.amazon.com/documentation/elastic-load-balancing/)
+- [EIP FAQ](https://aws.amazon.com/ec2/faqs/)
+- [Route 53 설명서](https://aws.amazon.com/documentation/route53/)
 
-- AWS Well Architected 프레임워크: https://aws.amazon.com/architecture/well-architected/
+- [AWS Well Architected 프레임워크](https://aws.amazon.com/architecture/well-architected/)
+
+- [Amazon Web Services: 보안 프로세스의 개요](https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Whitepaper.pdf)
+- [AWS 보안 모범 사례 백서](https://d0.awsstatic.com/whitepapers/aws-security-best-practices.pdf)
+- [IAM 모범 사례](http://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
+- [AWS 액세스 키를 관리하기 위한 모범 사례](http://docs.aws.amazon.com/general/latest/gr/aws-access-keys-best-practices.html)
+
 
 ### 부록2. 시험에 자주 나오는 서비스들
 - [EC2](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/concepts.html) : AWS의 핵심서비스인 만큼 EC2에 대한 내용은 무척 비중있게 다루어집니다.
