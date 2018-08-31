@@ -236,7 +236,6 @@
 - [Amazon EMR](https://aws.amazon.com/ko/emr/faqs/)
 - [AWS Direct Connect](https://aws.amazon.com/ko/directconnect/)
 - [AWS Import/Export](https://aws.amazon.com/ko/documentation/importexport/?nc1=h_ls)
-- [AWS Storage Gateway](https://aws.amazon.com/ko/storagegateway/details/)
 - [AWS Directory Service](https://aws.amazon.com/ko/directoryservice/faqs/)
 - [Amazon Route53](https://aws.amazon.com/ko/route53/details/)
 - [Amazon CloudFront](https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
