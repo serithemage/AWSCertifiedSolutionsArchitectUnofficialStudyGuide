@@ -33,7 +33,7 @@
 ## 시험 범위에 해당되는 AWS공식문서들
 
 ### 전체
-- [AWS 한국어 설명서 목록](https://aws.amazon.com/ko/blogs/korea/ko-documentation/): 여기 정리된 링크들은 대부분 SA 자격시험 출제범위 입니다.(관리자용이나 개발자용 문서는 제외)
+- [AWS 한국어 설명서 목록](https://aws.amazon.com/ko/blogs/korea/ko-documentation/)
 - [AWS 백서](https://aws.amazon.com/ko/whitepapers/)
   - [Amazon Web Services 개요](https://d1.awsstatic.com/International/ko_KR/whitepapers/aws-overview.pdf)
   - [Architecting for the Cloud](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
