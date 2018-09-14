@@ -6,7 +6,7 @@
 
 # 비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 (2018년 2월 출시) 수험 가이드 (bit.ly/saaguide)
 
-> 이 문서는 2018년 8월 12일 까지만 볼 수 있는 AWS 공인 솔루션스 아키텍트 어소시에이트 자격증(이하 SAA)의 [시험 안내서](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS%20Certified%20Solutions%20Architect%20-%20Associate_Exam%20Guide_v1.5b_FINALKO.pdf)에 적힌 내용에 기반하여 AWS의 홈페이지, 블로그, Slideshare의 관련 링크를 한글 자료 중심으로 정리해 놓은 것 입니다. 
+> 이 문서는 AWS 공인 솔루션스 아키텍트 어소시에이트 자격증(이하 SAA)의 시험 안내서에 적힌 내용에 기반하여 AWS의 홈페이지, 블로그, Slideshare의 관련 링크를 한글 자료 중심으로 정리해 놓은 것 입니다. 
 
 > 단축URL: http://bit.ly/saaguide
 
