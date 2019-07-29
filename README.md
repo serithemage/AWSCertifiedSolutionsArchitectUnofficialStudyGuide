@@ -19,17 +19,18 @@
 - [시험 워크숍 참여](https://www.aws.training/home?courseid=10&&language=en-US&view=table&source=web_en_certified-sa-assoc)
 - [샘플문항(신)](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_Certified_Solutions%20Architect_Associate_Feb_2018_Sample%20Questions_v1.0.pdf): 영문이며 10문항이 제공됩니다.
 - [샘플문항(구)](https://d0.awsstatic.com/International/ko_KR/AWS_certified_solutions_architect_associate_examsample_ko.pdf): 8개의 샘플문항 입니다. 신형 시험에도 충분히 참고가 됩니다.
-- [영문 시험 시간 추가 요청 방법](http://edu.supertrack.co.kr/community/news.php?ptype=view&idx=5177&page=1&code=news): 영문으로 시험을 보실 경우 30분 시험시간을 추가하실 수 있습니다. **주의! 반드시 시험 신청 하시기 전에 시험시간 추가 신청을 하셔야 합니다!**
+- [시험 시간 추가 요청 방법](http://edu.supertrack.co.kr/community/news.php?ptype=view&idx=5177&page=1&code=news): 영어가 모국어가 아닌 국가의 사람은 30분 시험시간을 추가하실 수 있습니다. **주의! 반드시 시험 신청 하시기 전에 시험시간 추가 신청을 하셔야 합니다!**
 
-## 시험 준비 요령
+## 시험 요령
  
 - 우선 시험 자체가 녹록지 않습니다. 링크집 보시면 아시겠지만 범위가 상당히 많습니다. 문제는 단순 암기식보다는 서비스를 이해하고 사용하는데 초점이 맞춰져 있습니다.
 - 시험범위가 [AWS 기반 아키텍처 설계수업](https://aws.amazon.com/ko/training/course-descriptions/architect/)과 일치 하기 때문에 수업을 수강하시는것이 시험 준비에 유리합니다.
-- 여기 소개된 문서들은 AWS 개요 -> 백서 -> 각 서비스 FAQ -> 모범사례 순으로 읽어 나가는 것이 좋습니다.
-- 시험은 130분동안 65문제를 풉니다. 짧은 시간에 많은 문제를 풀어야 하므로 시간 관리가 매우 중요합니다.
+- 여기 소개된 문서들은 AWS 개요 -> 각 서비스별 FAQ -> 백서 -> 모범사례 순으로 읽어 나가는 것이 좋습니다.
+- 시험은 130분동안 65문제를 풉니다. 짧은 시간에 많은 문제를 풀어야 하므로 시간 관리가 매우 중요합니다. 위의 링크를 통해 꼭 30분 연장 신청을 미리 하세요.
 - 시험은 대부분 서비스의 FAQ문서에서 많이 출제가 됩니다. 충분히 문서를 읽고 모범 사례를 파악해야만 합니다.
-- 영어에 자신이 있으시다면 시험 시간 연장 신청을 하고 영문으로 시험을 보시면 30분 추가로 시험 시간을 배정 받을 수 있습니다. 
-- 무료로 제공되는 샘플문제와 20달러 유료인 테스트 시험을 보실 수 있습니다. 실제 시험의 점수와 싱크율이 높기 때문에 모의 고사 본다는 느낌으로 시험을 보는것이 시험 준비에 많은 도움이 됩니다.
+- 시험보는 도중에 영어 원문 확인이 가능합니다.
+- 합격선은 1000점 만점에 720점 입니다. 너무 어려운 문제에 시간과 맨탈을 사용하기 보다는 적당히 포기하면서 풀어가는 페이스 유지가 중요합니다.
+- 무료로 제공되는 샘플문제와 20달러 유료인 테스트 시험을 보실 수 있습니다. 실제 시험의 점수와 싱크율이 높기 때문에 모의 고사 본다는 느낌으로 시험을 보는 것이 시험 준비에 많은 도움이 됩니다. 연습문제는 여러번 봐도 동일한 문제가 출제되므로 한 번만 봐도 충분합니다.
 
 ## 시험 범위에 해당되는 AWS공식문서들
 
@@ -215,10 +216,6 @@
   - [VPC 피어링이란?](http://docs.aws.amazon.com/ko_kr/AmazonVPC/latest/PeeringGuide/Welcome.html)
   - [Amazon Virtual Private Cloud 를 이용한 IT 인프라의 확장](http://d0.awsstatic.com/International/ko_KR/whitepapers/Extend%20your%20IT%20infrastructure%20with%20Amaon%20VPC.pdf)
 - [ELB](https://aws.amazon.com/ko/elasticloadbalancing/faqs/)
-- [AWS Lambda](https://aws.amazon.com/ko/lambda/faqs/)
-- [AWS Step Functions](https://aws.amazon.com/ko/step-functions/faqs/)
-- [Elastic Beanstalk](https://aws.amazon.com/ko/elasticbeanstalk/faqs/)
-  - [Elastic Beanstalk를 이용한 웹 앱 배포](http://docs.aws.amazon.com/ko_kr/gettingstarted/latest/deploy/overview.html)
 - [EBS](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSVolumes.html)
   - [EBS FAQ](https://aws.amazon.com/ko/ebs/faqs/)
   - [EBS 볼륨 유형](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSVolumeTypes.html)
@@ -232,15 +229,8 @@
   - [S3 스토리지 클래스](https://aws.amazon.com/ko/s3/storage-classes/)
   - [S3 Reduced Redundancy Storage](https://aws.amazon.com/ko/s3/reduced-redundancy/)
 - [CloudFormation](https://aws.amazon.com/ko/cloudformation/faqs/)
-- [OpsWorks](https://aws.amazon.com/ko/opsworks/faqs/)
-- [Amazon SNS](https://aws.amazon.com/ko/sns/faqs/)
-- [Amazon SQS](https://aws.amazon.com/ko/sqs/faqs/)
-- [AWS Storage Gateway](https://aws.amazon.com/ko/storagegateway/faqs/)
-- [Amazon Kinesis](https://aws.amazon.com/ko/kinesis/streams/faqs/)
-- [Amazon EMR](https://aws.amazon.com/ko/emr/faqs/)
-- [AWS Direct Connect](https://aws.amazon.com/ko/directconnect/)
-- [AWS Import/Export](https://aws.amazon.com/ko/documentation/importexport/?nc1=h_ls)
-- [AWS Directory Service](https://aws.amazon.com/ko/directoryservice/faqs/)
+- [AWS Lambda](https://aws.amazon.com/ko/lambda/faqs/)
+- [AWS Step Functions](https://aws.amazon.com/ko/step-functions/faqs/)
 - [Amazon Route53](https://aws.amazon.com/ko/route53/details/)
 - [Amazon CloudFront](https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
 - [AWS ECS](https://aws.amazon.com/ko/ecs/faqs/)
@@ -251,6 +241,17 @@
   - [프로비저닝된 처리량](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/HowItWorks.ProvisionedThroughput.html)
   - [DynamoDB의 쿼리 및 스캔 작업](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/QueryAndScan.html)
   - [파티션 및 데이터 배포](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/HowItWorks.Partitions.html)
+- [Elastic Beanstalk](https://aws.amazon.com/ko/elasticbeanstalk/faqs/)
+  - [Elastic Beanstalk를 이용한 웹 앱 배포](http://docs.aws.amazon.com/ko_kr/gettingstarted/latest/deploy/overview.html)
+- [Amazon SNS](https://aws.amazon.com/ko/sns/faqs/)
+- [Amazon SQS](https://aws.amazon.com/ko/sqs/faqs/)
+- [AWS Storage Gateway](https://aws.amazon.com/ko/storagegateway/faqs/)
+- [Amazon Kinesis](https://aws.amazon.com/ko/kinesis/streams/faqs/)
+- [Amazon EMR](https://aws.amazon.com/ko/emr/faqs/)
+- [AWS Direct Connect](https://aws.amazon.com/ko/directconnect/)
+- [AWS Import/Export](https://aws.amazon.com/ko/documentation/importexport/?nc1=h_ls)
+- [AWS Directory Service](https://aws.amazon.com/ko/directoryservice/faqs/)
+- [OpsWorks](https://aws.amazon.com/ko/opsworks/faqs/)
 - [Amazon MQ](https://aws.amazon.com/ko/amazon-mq/faqs/)
 
 
