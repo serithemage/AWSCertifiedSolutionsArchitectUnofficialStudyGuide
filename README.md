@@ -41,7 +41,7 @@
   - [Architecting for the Cloud](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
   - [AWS 보안 모범 사례](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
   - [AWS 스토리지 서비스 개요](https://d1.awsstatic.com/whitepapers/Storage/AWS%20Storage%20Services%20Whitepaper-v9.pdf)
-  - [AWS Well-Architected Framework](https://d1.awsstatic.com/International/ko_KR/whitepapers/Well-Architected%20Framework%20Whitepaper.pdf)
+  - [AWS Well-Architected Framework](https://aws.amazon.com/ko/architecture/well-architected/)
   - [클라우드를 위한 아키텍처 설계: AWS 모범 사례](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
   - [AWS Lambda를 사용한 서버리스 아키텍처](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf)
 - [AWS 아키텍처 센터](https://aws.amazon.com/ko/architecture/)
