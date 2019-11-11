@@ -254,4 +254,11 @@
 - [OpsWorks](https://aws.amazon.com/ko/opsworks/faqs/)
 - [Amazon MQ](https://aws.amazon.com/ko/amazon-mq/faqs/)
 
+### 부록3. 시험관련 공식문서 요약&정리
+
+> 시험준비에 들어가는 시간과 노력을 줄일 수 있도록 요약&정리해 놓은 문서입니다.
+
+- [AWS Solutions Architect — Associate certificate Study — 공식 문서 정리 Part 1](https://medium.com/@tkdgy0801/aws-solutions-architect-certificate-%EA%B3%B5%EB%B6%80-%EC%98%81%EC%97%AD-1-7abd91cd91a8)
+- [AWS Solutions Architect — Associate certificate Study — 공식 문서 정리 Part 2](https://medium.com/@tkdgy0801/aws-solutions-architect-associate-certificate-study-%EA%B3%B5%EC%8B%9D-%EB%AC%B8%EC%84%9C-%EC%A0%95%EB%A6%AC-part-2-3775eb75230e)
+- [AWS Solutions Architect — Associate certificate Study — 공식 문서 정리 Part 3](https://medium.com/@tkdgy0801/aws-solutions-architect-associate-certificate-study-%EA%B3%B5%EC%8B%9D-%EB%AC%B8%EC%84%9C-%EC%A0%95%EB%A6%AC-part-3-b14f3e4005b)
 
