@@ -5,20 +5,20 @@
 - AWS 공인 개발자 - 어소시에이트 수험 가이드  http://bit.ly/devcertguide
 - AWS 보안 관련 컨텐츠 모음집  http://bit.ly/seccontents
 
-# 비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 (2018년 2월 출시) 수험 가이드 (bit.ly/saaguide)
+# 비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 SAA-C02 (2020년 3월 출시) 수험 가이드 (bit.ly/saaguide)
 
-> 이 문서는 AWS 공인 솔루션스 아키텍트 어소시에이트 자격증(이하 SAA)의 시험 안내서에 적힌 내용에 기반하여 AWS의 홈페이지, 블로그, Slideshare의 관련 링크를 한글 자료 중심으로 정리해 놓은 것 입니다. 
+> 이 문서는 2020년 3월에 새롭게 출시된 AWS 공인 솔루션스 아키텍트 어소시에이트 자격증(SAA-C02)의 시험 안내서에 적힌 내용에 기반하여 AWS의 홈페이지, 블로그, Slideshare의 관련 링크를 한글 자료 중심으로 정리해 놓은 것 입니다. 
 
 > 단축URL: http://bit.ly/saaguide
 
 ## 기본적인 시험 정보
-- [시험 안내서](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS%20Certified%20Solutions%20Architect%20-%20Associate_Exam%20Guide_v1.5b_FINALKO.pdf): 많은 분들이 제대로 읽어보시지 않으시는데 수험 준비를 위해 대단히 중요한 문서이므로 꼼꼼히 읽어 두셔야 합니다. 이 문서는 이 시험 안내서에 기반하여 작성되었습니다.
+- [시험 안내서](https://d1.awsstatic.com/ko_KR/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf): 많은 분들이 제대로 읽어보시지 않으시는데 수험 준비를 위해 대단히 중요한 문서이므로 꼼꼼히 읽어 두셔야 합니다. 이 문서는 이 시험 안내서에 기반하여 작성되었습니다.
 - [시험 안내 페이지](https://aws.amazon.com/ko/certification/certified-solutions-architect-associate/)
 - [시험 신청](https://www.webassessor.com/wa.do?page=publicHome&branding=AMAZON)
 - [AWS기반 아키텍처 설계](https://aws.amazon.com/ko/training/course-descriptions/architect/): 3일동안 강의와 실습으로 진행되는 수업이며 이 수업에서 다루는 내용이 바로 AWS 솔루션스 아키텍트 자격증시험의 출제 범위가 됩니다.
 - [시험 워크숍 참여](https://www.aws.training/home?courseid=10&&language=en-US&view=table&source=web_en_certified-sa-assoc)
-- [샘플문항(신)](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_Certified_Solutions%20Architect_Associate_Feb_2018_Sample%20Questions_v1.0.pdf): 영문이며 10문항이 제공됩니다.
-- [샘플문항(구)](https://d0.awsstatic.com/International/ko_KR/AWS_certified_solutions_architect_associate_examsample_ko.pdf): 8개의 샘플문항 입니다. 신형 시험에도 충분히 참고가 됩니다.
+- [샘플문항(SAA-c02)](https://d1.awsstatic.com/ko_KR/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf): 시험 신청 전에 꼭 풀어보시기 바랍니다. 
+- [샘플문항(SAA-C01)](https://d1.awsstatic.com/training-and-certification/docs/AWS_Certified_Solutions_Architect_Associate_Sample_Questions.pdf): 2018년 2월에 출시된 SAA-C01 준비용으로 출제된 10개의 샘플문항 입니다.
 - [시험 시간 추가 요청 방법](http://edu.supertrack.co.kr/community/news.php?ptype=view&idx=5177&page=1&code=news): 영어가 모국어가 아닌 국가의 사람은 30분 시험시간을 추가하실 수 있습니다. **주의! 반드시 시험 신청 하시기 전에 시험시간 추가 신청을 하셔야 합니다!**
 
 ## 시험 요령
@@ -56,8 +56,12 @@
   - [AWS 고급 아키텍처 방법론](http://www.slideshare.net/awskorea/aws-cloud-track-2-advanced)
   - [AWS 기반의 마이크로 서비스 아키텍쳐 구현 방안](http://www.slideshare.net/awskorea/micro-service-oriented-architecture-on-aws-piljoong-kim)
 - 느슨한 결합을 구현하기 위한 서비스들
-  - [ELB FAQ](https://aws.amazon.com/ko/elasticloadbalancing/faqs/)
-  - [SQS FAQ](https://aws.amazon.com/ko/sqs/faqs/)
+  - [ELB](https://aws.amazon.com/ko/elasticloadbalancing/faqs/)
+  - [Auto Scaling](https://aws.amazon.com/ko/autoscaling/faqs/)
+    - [동적 조정](https://docs.aws.amazon.com/ko_kr/autoscaling/ec2/userguide/as-scale-based-on-demand.html)
+    - [예약된 조정](https://docs.aws.amazon.com/ko_kr/autoscaling/ec2/userguide/schedule_time.html)
+  - [SQS](https://aws.amazon.com/ko/sqs/faqs/)
+  - [SNS](https://aws.amazon.com/ko/sns/faqs/)
 - 계획 및 설계
   - [클라우드를 위한 아키텍처 설계 - 모범 사례](https://amz.kr/pdf/Architecture_Best_Practices_draft-KR.pdf)
   - [AWS 고객 사례 모음](https://www.awsseoul.kr/images/content/aws-korea-customer-cases-2016.pdf) 
@@ -94,6 +98,7 @@
   - [자동화된 탄력성](https://docs.aws.amazon.com/ko_kr/aws-technical-content/latest/cost-optimization-automating-elasticity/introduction.html)
   - [적절한 크기 조정: 워크로드에 맞춰 인스턴스를 프로비저닝](https://docs.aws.amazon.com/ko_kr/aws-technical-content/latest/cost-optimization-right-sizing/introduction.html)
   - [천만 사용자를 위한 AWS 클라우드 아키텍처 진화하기 - 이창수 솔루션즈 아키텍트](https://www.youtube.com/watch?v=HI0fPiZpniY)
+  - [RDBMS의 수평적 확장 - RDS 읽기 전용 복제본](https://aws.amazon.com/ko/rds/features/read-replicas/)
 
 ### 영역 3: 안전한 애플리케이션 및 아키텍처
 - [클라우드 보안 모범 사례](https://d0.awsstatic.com/International/ko_KR/whitepapers/AWS_Security_Best_Practices_11052013.pdf)
@@ -127,17 +132,9 @@
 - [AWS를 사용하는 백업 및 복구 접근 방식](https://d0.awsstatic.com/whitepapers/Storage/LocalizedBR/Backup_and_Recovery_Approaches_Using_AWS_whitepaper_KR.pdf)
 
 - [Amazon S3에서 CloudFront 사용](http://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/MigrateS3ToCloudFront.html)
+- [Aurora 글로벌 데이터베이스](https://aws.amazon.com/ko/rds/aurora/global-database/)
+- [RDS DB인스턴스의 암호화 활성화](https://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/UserGuide/Overview.Encryption.html#Overview.Encryption.Enabling)
 
-### 영역4. 비용에 최적화된 아키텍처 설계
-- [비용 최적화](https://aws.amazon.com/ko/pricing/cost-optimization/)
-- AWS 클라우드 비용 최적화를 위한 모범 사례-AWS Summit Seoul 2017
-  - [장표](https://www.slideshare.net/awskorea/2-good-cases-of-aws-cloud-cost-optimization)
-  - [세션영상](https://www.youtube.com/watch?v=Ks0hJ2CTFsA)
-- [AWS 총 소유 비용(TCO) 계산기](https://aws.amazon.com/ko/tco-calculator/)
-- [AWS 월 비용 계산기](https://calculator.s3.amazonaws.com/index.html)
-- [적절한 크기 조정: 워크로드에 맞춰 인스턴스를 프로비저닝](https://docs.aws.amazon.com/ko_kr/aws-technical-content/latest/cost-optimization-right-sizing/introduction.html)
-
-### 영역5. 운영에 탁월한 아키텍처 정의
 - 운영 관련 서비스들
   - [AWS Config](https://aws.amazon.com/ko/config/faq/)
   - [AWS CloudFormation](https://aws.amazon.com/ko/cloudformation/faqs/)
@@ -157,6 +154,16 @@
 - [AWS Service Limits](http://docs.aws.amazon.com/ko_kr/general/latest/gr/aws_service_limits.html): AWS에는 요청으로 변경 가능한 제한(Soft Limits)과 변경이 불가능한 제한(Hard Limits)이 있습니다.
   - [Amazon EC2 서비스 제한](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ec2-resource-limits.html) 
 - [Amazon EC2 인스턴스 FAQ](https://aws.amazon.com/ko/instance-help/)
+
+### 영역4. 비용에 최적화된 아키텍처 설계
+- [비용 최적화](https://aws.amazon.com/ko/pricing/cost-optimization/)
+- AWS 클라우드 비용 최적화를 위한 모범 사례-AWS Summit Seoul 2017
+  - [장표](https://www.slideshare.net/awskorea/2-good-cases-of-aws-cloud-cost-optimization)
+  - [세션영상](https://www.youtube.com/watch?v=Ks0hJ2CTFsA)
+- [AWS 총 소유 비용(TCO) 계산기](https://aws.amazon.com/ko/tco-calculator/)
+- [AWS 월 비용 계산기](https://calculator.s3.amazonaws.com/index.html)
+- [적절한 크기 조정: 워크로드에 맞춰 인스턴스를 프로비저닝](https://docs.aws.amazon.com/ko_kr/aws-technical-content/latest/cost-optimization-right-sizing/introduction.html)
+
 
 ## 부록
 ### 부록1. AWS 공인 솔루션스 아키텍트 – 어소시에이트 : 시험준비 워크샵에서 소개된 링크들
