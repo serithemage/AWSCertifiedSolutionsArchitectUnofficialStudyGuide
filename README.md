@@ -269,3 +269,22 @@
 - [AWS Solutions Architect — Associate certificate Study — 공식 문서 정리 Part 2](https://medium.com/@tkdgy0801/aws-solutions-architect-associate-certificate-study-%EA%B3%B5%EC%8B%9D-%EB%AC%B8%EC%84%9C-%EC%A0%95%EB%A6%AC-part-2-3775eb75230e)
 - [AWS Solutions Architect — Associate certificate Study — 공식 문서 정리 Part 3](https://medium.com/@tkdgy0801/aws-solutions-architect-associate-certificate-study-%EA%B3%B5%EC%8B%9D-%EB%AC%B8%EC%84%9C-%EC%A0%95%EB%A6%AC-part-3-b14f3e4005b)
 
+### 부록4. 자격증 취득 후 참고할만한 내용
+
+- [자격증 취득 시 혜택](https://aws.amazon.com/ko/certification/benefits/): 시험 50% 할인 바우처, 연습 시험 무료 응시 바우처 등이 주어지니 다음 시험볼 때 꼭 활용하세요.
+- [자격증 갱신](https://aws.amazon.com/ko/certification/recertification/): AWS 자격증 유효기간은 3년이며, 갱신 제도를 활용할 수 있습니다. 
+
+예를 들어,
+| 자격증 | 취득일 | 만료일 |
+| --- | --- | --- |
+| `AWS SAA - Associate` | 2020.01.01 | 2023.01.01
+
+SAA - Associate 자격증을 20년 1월 1일에 취득하면 만료일은 23년 1월 1일입니다.
+
+| 자격증 | 취득일 | 만료일 |
+| --- | --- | --- |
+| `AWS SAA - Associate` | 2020.01.01 | **2025.09.01**
+| `AWS SAA - Professional` | 2022.09.01 | 2025.09.01
+
+SAA - Professional 자격증을 22년 9월 1일에 취득하면 아키텍트 부문 하위 자격증인 SAA - Associate 자격증의 만료일이 위와 같이 갱신됩니다.
+
