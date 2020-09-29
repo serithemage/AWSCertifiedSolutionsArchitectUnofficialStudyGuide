@@ -179,7 +179,7 @@
 - [SQS FAQ](https://aws.amazon.com/sqs/faqs/)
 - [ELB FAQ](https://aws.amazon.com/elasticloadbalancing/faqs/)
 - [ELB 설명서](https://aws.amazon.com/documentation/elastic-load-balancing/)
-- [EIP FAQ](https://aws.amazon.com/ec2/faqs/)
+- [EIP FAQ](https://aws.amazon.com/ec2/faqs/#Elastic_IP)
 - [Route 53 설명서](https://aws.amazon.com/documentation/route53/)
 
 - [AWS Well Architected 프레임워크](https://aws.amazon.com/architecture/well-architected/)
