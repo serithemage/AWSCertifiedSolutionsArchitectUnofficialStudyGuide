@@ -1,9 +1,12 @@
 > AWS 학습 링크집 시리즈
-- AWS 학습 리소스 모음집 - http://bit.ly/aws-study-resource
-- AWS 공인 솔루션스 아키텍트 - 어소시에이트 수험 가이드  http://bit.ly/saaguide
-- AWS 공인 솔루션스 아키텍트 - 프로페셔널 수험 가이드 http://bit.ly/sapcertguide
+- AWS 트레이닝 및 자격증 소개 http://bit.ly/aws-tnc-intro
+- AWS 학습 자료집 http://bit.ly/aws-study-resource
+- AWS 공인 솔루션스 아키텍트 - 어소시에이트 수험 가이드  http://bit.ly/sacertguide
 - AWS 공인 개발자 - 어소시에이트 수험 가이드  http://bit.ly/devcertguide
-- AWS 보안 관련 컨텐츠 모음집  http://bit.ly/seccontents
+- AWS 보안 관련 컨텐츠 모음집  http://bit.ly/secontents
+- AWS 기반 빅데이터 학습자료집 http://bit.ly/bdonaws
+- AWS 딥러닝 학습 자료 모음집 http://bit.ly/dlonaws
+- 2019년 re:Invent 에서 공개된 AI/ML관련 서비스 소개 http://bit.ly/2019-ml-recap
 
 # 비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 SAA-C02 (2020년 3월 출시) 수험 가이드 (bit.ly/saaguide)
 
