@@ -19,7 +19,7 @@
 - [시험 안내 페이지](https://aws.amazon.com/ko/certification/certified-solutions-architect-associate/)
 - [시험 신청](https://www.webassessor.com/wa.do?page=publicHome&branding=AMAZON)
 - [AWS기반 아키텍처 설계](https://aws.amazon.com/ko/training/course-descriptions/architect/): 3일동안 강의와 실습으로 진행되는 수업이며 이 수업에서 다루는 내용이 바로 AWS 솔루션스 아키텍트 자격증시험의 출제 범위가 됩니다.
-- [시험 워크숍 참여](https://www.aws.training/home?courseid=10&&language=en-US&view=table&source=web_en_certified-sa-assoc)
+- [무료 온라인 시험 워크숍](https://www.aws.training/Details/Video?id=47561): 
 - [샘플문항(SAA-c02)](https://d1.awsstatic.com/ko_KR/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf): 시험 신청 전에 꼭 풀어보시기 바랍니다. 
 - [샘플문항(SAA-C01)](https://d1.awsstatic.com/training-and-certification/docs/AWS_Certified_Solutions_Architect_Associate_Sample_Questions.pdf): 2018년 2월에 출시된 SAA-C01 준비용으로 출제된 10개의 샘플문항 입니다.
 - [시험 시간 추가 요청 방법](http://edu.supertrack.co.kr/community/news.php?ptype=view&idx=5177&page=1&code=news): 영어가 모국어가 아닌 국가의 사람은 30분 시험시간을 추가하실 수 있습니다. **주의! 반드시 시험 신청 하시기 전에 시험시간 추가 신청을 하셔야 합니다!**
