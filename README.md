@@ -22,6 +22,7 @@
 - [무료 온라인 시험 워크숍](https://www.aws.training/Details/Video?id=47561): 
 - [샘플문항(SAA-c02)](https://d1.awsstatic.com/ko_KR/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf): 시험 신청 전에 꼭 풀어보시기 바랍니다. 
 - [샘플문항(SAA-C01)](https://d1.awsstatic.com/training-and-certification/docs/AWS_Certified_Solutions_Architect_Associate_Sample_Questions.pdf): 2018년 2월에 출시된 SAA-C01 준비용으로 출제된 10개의 샘플문항 입니다.
+- [AWS Skillbuilders 자격증 시험 준비 디지털 강의](https://github.com/serithemage/AWS_class_resources/tree/main/AWS_Skill_Builder#%EC%9E%90%EA%B2%A9%EC%A6%9D-%EC%8B%9C%ED%97%98-%EB%8C%80%EB%B9%84-%EA%B0%95%EC%9D%98)
 - [AWS Certification Official Practice Question Sets (Korean)](https://medium.com/ctc-mzc/aws-%EA%B3%B5%EC%8B%9D-%EC%9E%90%EA%B2%A9-%EC%8B%9C%ED%97%98-%EC%9C%A0%ED%98%95-%EB%AC%B8%EC%A0%9C-%EA%B3%B5%EA%B0%9C-386ba0d9f186) - AWS 자격증 별로 문제 유형을 파악할 수 있도록 개발한 20개의 문항으로 이루어진 셋
 - [시험 시간 추가 요청 방법](http://edu.supertrack.co.kr/community/news.php?ptype=view&idx=5177&page=1&code=news): 영어가 모국어가 아닌 국가의 사람은 30분 시험시간을 추가하실 수 있습니다. **주의! 반드시 시험 신청 하시기 전에 시험시간 추가 신청을 하셔야 합니다!**
 
