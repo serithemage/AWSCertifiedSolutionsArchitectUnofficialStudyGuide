@@ -42,7 +42,7 @@
 ### 전체
 - [AWS 한국어 설명서 목록](https://aws.amazon.com/ko/blogs/korea/ko-documentation/)
 - [AWS 백서](https://aws.amazon.com/ko/whitepapers/)
-  - [Amazon Web Services 개요](https://d1.awsstatic.com/International/ko_KR/whitepapers/aws-overview.pdf)
+  - [Amazon Web Services 개요](https://docs.aws.amazon.com/ko_kr/whitepapers/latest/aws-overview/aws-overview.pdf)
   - [Architecting for the Cloud](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
   - [AWS 보안 모범 사례](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
   - [AWS 스토리지 서비스 개요](https://d1.awsstatic.com/whitepapers/Storage/AWS%20Storage%20Services%20Whitepaper-v9.pdf)
