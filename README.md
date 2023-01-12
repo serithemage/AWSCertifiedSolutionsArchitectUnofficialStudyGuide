@@ -1,3 +1,6 @@
+# 주의! 2023년 1월 현재 이 가이드의 내용은 업데이트가 되지 않아 현재 시행되고 있는 SAA-C03 수험에는 도움이 되지 않습니다. 
+# [SAA 공식 시험 안내 페이지](https://aws.amazon.com/ko/certification/certified-solutions-architect-associate/)를 방문해서 맨 아래 "시험준비" 섹션을 살펴보세요!
+
 > AWS 학습 링크집 시리즈
 - AWS 트레이닝 및 자격증 소개 http://bit.ly/aws-tnc-intro
 - AWS 학습 자료집 http://bit.ly/aws-study-resource
